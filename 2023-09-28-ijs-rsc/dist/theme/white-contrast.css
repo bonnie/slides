@@ -45,14 +45,14 @@ section.has-dark-background h6 {
   --r-heading-text-shadow: none;
   --r-heading-font-weight: 600;
   --r-heading1-text-shadow: none;
-  --r-heading1-size: 1.3em;
+  --r-heading1-size: 1.4em;
   --r-heading2-size: 1.2em;
   --r-heading3-size: 1.1em;
   --r-heading4-size: 1em;
   --r-code-font: monospace;
-  --r-link-color: #2a76dd;
+  --r-link-color: var(--color-primary-500);
   --r-link-color-dark: #1a53a1;
-  --r-link-color-hover: #6ca0e8;
+  --r-link-color-hover: var(--color-primary-300);
   --r-selection-background-color: #98bdef;
   --r-selection-color: #fff;
   --r-caption-color: #888;
@@ -131,6 +131,10 @@ section.has-dark-background h6 {
   color: var(--color-secondary-500);
 }
 
+/*********************************************
+ * Text styles
+ *********************************************/
+
 .title {
   display: flex;
   flex-direction: column;
@@ -154,6 +158,11 @@ section.has-dark-background h6 {
 
 .title .attribution {
   margin-top: -1rem;
+}
+
+.years {
+  font-weight: bold;
+  color: var(--color-primary-300);
 }
 
 /*********************************************
@@ -432,6 +441,25 @@ section.has-dark-background h6 {
 .image-slide .content {
   display: flex;
   flex-direction: column;
+}
+
+/* .reveal section {
+  position: relative;
+} */
+
+.reveal .footer {
+  position: absolute;
+  bottom: 0em;
+  left: 0.5em;
+  font-size: 0.75em;
+
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.reveal .footer img {
+  height: 1.5em;
 }
 
 /*********************************************

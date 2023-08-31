@@ -23,7 +23,7 @@
           <div class="vertical-slide">
             <div class="title">
               <p class="supertitle">Ask your doctor if</p>
-              <h1>React Server omponents</h1>
+              <h1>React Server Components</h1>
               <p class="subtitle">are right for you</p>
             </div>
 
@@ -31,6 +31,32 @@
             <p class="attribution">iJS • Sept 28, 2023</p>
           </div>
         </section>
+
+        <section>
+          <div class="image-slide">
+            <div class="img">
+              <img src="images/doctor-b-2-circle.png" />
+            </div>
+            <div class="content">
+              <h1>About Bonnie</h1>
+              <ul>
+                <li>Software industry: <span class="years">20+ years</span></li>
+                <li>
+                  Online courses full-time: <span class="years">3 years</span>
+                </li>
+                <li>
+                  Current gig: <a href="https://howd.dev">Hands-on Web Dev</a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </section>
+      </div>
+      <div class="slide-background-content">
+        <div class="footer">
+          <img src="images/planet-bonnie.svg" />
+          <a href="https://bonnie.dev">https://bonnie.dev/slides</a>
+        </div>
       </div>
     </div>
 
@@ -44,6 +70,15 @@
       // - https://revealjs.com/config/
       Reveal.initialize({
         hash: true,
+
+        // The "normal" size of the presentation, aspect ratio will
+        // be preserved when the presentation is scaled to fit different
+        // resolutions. Can be specified using percentage units.
+        width: 960,
+        height: 700,
+
+        // Display a presentation progress bar
+        progress: true,
 
         // Learn about plugins: https://revealjs.com/plugins/
         plugins: [RevealMarkdown, RevealHighlight, RevealNotes],
