@@ -40,11 +40,13 @@
             <div class="content">
               <h1>About Bonnie</h1>
               <ul>
-                <li>Software industry: <span class="years">20+ years</span></li>
-                <li>
+                <li class="fragment fade-left">
+                  Software industry: <span class="years">20+ years</span>
+                </li>
+                <li class="fragment fade-left">
                   Online courses full-time: <span class="years">3 years</span>
                 </li>
-                <li>
+                <li class="fragment fade-left">
                   Current gig: <a href="https://howd.dev">Hands-on Web Dev</a>
                 </li>
               </ul>
@@ -79,6 +81,8 @@
 
         // Display a presentation progress bar
         progress: true,
+
+        transition: "fade",
 
         // Learn about plugins: https://revealjs.com/plugins/
         plugins: [RevealMarkdown, RevealHighlight, RevealNotes],
