@@ -7,7 +7,13 @@
  * - $mainFontSize controls code blocks, too (although under some ratio).
  */
 @import url(./fonts/source-sans-pro/source-sans-pro.css);
-section.has-dark-background, section.has-dark-background h1, section.has-dark-background h2, section.has-dark-background h3, section.has-dark-background h4, section.has-dark-background h5, section.has-dark-background h6 {
+section.has-dark-background,
+section.has-dark-background h1,
+section.has-dark-background h2,
+section.has-dark-background h3,
+section.has-dark-background h4,
+section.has-dark-background h5,
+section.has-dark-background h6 {
   color: #fff;
 }
 
@@ -15,6 +21,16 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
  * GLOBAL STYLES
  *********************************************/
 :root {
+  --color-secondary-300: hsl(34, 70%, 55%);
+  --color-secondary-500: hsl(26, 66%, 46%);
+  --color-secondary-800: hsl(9, 66%, 46%);
+  --color-primary-100: hsl(202, 47%, 70%);
+  --color-primary-300: hsl(202, 47%, 50%);
+  --color-primary-500: hsl(210, 51%, 41%);
+  --color-primary-700: hsl(208, 43%, 30%);
+  --color-primary-800: hsl(207, 35%, 20%);
+  --color-primary-900: hsl(208, 36%, 15%);
+
   --r-background-color: #fff;
   --r-main-font: Source Sans Pro, Helvetica, sans-serif;
   --r-main-font-size: 42px;
@@ -23,15 +39,15 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
   --r-heading-margin: 0 0 20px 0;
   --r-heading-font: Source Sans Pro, Helvetica, sans-serif;
   --r-heading-color: #000;
-  --r-heading-line-height: 1.2;
+  --r-heading-line-height: 1.1;
   --r-heading-letter-spacing: normal;
-  --r-heading-text-transform: uppercase;
+  --r-heading-text-transform: none;
   --r-heading-text-shadow: none;
   --r-heading-font-weight: 600;
   --r-heading1-text-shadow: none;
-  --r-heading1-size: 2.5em;
-  --r-heading2-size: 1.6em;
-  --r-heading3-size: 1.3em;
+  --r-heading1-size: 1.3em;
+  --r-heading2-size: 1.2em;
+  --r-heading3-size: 1.1em;
   --r-heading4-size: 1em;
   --r-code-font: monospace;
   --r-link-color: #2a76dd;
@@ -39,6 +55,9 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
   --r-link-color-hover: #6ca0e8;
   --r-selection-background-color: #98bdef;
   --r-selection-color: #fff;
+  --r-caption-color: #888;
+  --r-caption-size: 0.4em;
+  --r-caption-style: italic;
 }
 
 .reveal-viewport {
@@ -109,6 +128,32 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
 
 .reveal h1 {
   text-shadow: var(--r-heading1-text-shadow);
+  color: var(--color-secondary-500);
+}
+
+.title {
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  margin: 0 auto;
+  color: var(--color-secondary-500);
+}
+
+.title .subtitle {
+  margin-top: -1rem;
+  margin-bottom: 3rem;
+  font-style: italic;
+  align-self: flex-end;
+}
+
+.title .supertitle {
+  margin-bottom: 0rem;
+  font-style: italic;
+  align-self: flex-start;
+}
+
+.title .attribution {
+  margin-top: -1rem;
 }
 
 /*********************************************
@@ -258,13 +303,13 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
   border-bottom: 1px solid;
 }
 
-.reveal table th[align=center],
-.reveal table td[align=center] {
+.reveal table th[align="center"],
+.reveal table td[align="center"] {
   text-align: center;
 }
 
-.reveal table th[align=right],
-.reveal table td[align=right] {
+.reveal table th[align="right"],
+.reveal table td[align="right"] {
   text-align: right;
 }
 
@@ -340,6 +385,53 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
  *********************************************/
 .reveal .controls {
   color: var(--r-link-color);
+}
+
+/*********************************************
+ * CAPTIONS
+ *********************************************/
+.reveal .caption {
+  color: var(--r-caption-color);
+  font-size: var(--r-caption-size);
+  font-style: var(--r-caption-style);
+}
+
+/*********************************************
+ * LAYOUT
+ *********************************************/
+.vertical-slide: {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.image-slide {
+  display: grid;
+  grid-template-columns: 1fr 1.75fr;
+}
+
+.image-slide-reverse {
+  grid-template-columns: 1.75fr 1fr;
+}
+
+.reveal .image-slide .img {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0;
+  width: "100%";
+}
+
+.image-slide .img img {
+  margin: 0;
+}
+.image-slide .img .caption {
+  margin-top: 0.25em;
+}
+
+.image-slide .content {
+  display: flex;
+  flex-direction: column;
 }
 
 /*********************************************
