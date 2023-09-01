@@ -16,17 +16,20 @@ const props = defineProps({
 });
 
 const style = computed(() =>
-  handleBackground(props.image, false, props.backgroundSize, "top")
+  handleBackground(props.image, false, props.backgroundSize)
 );
 </script>
 
 <template>
   <div
-    class="grid grid-cols-[3fr_1fr] w-full h-full auto-rows-fr place-content-center gap-4"
+    class="grid grid-cols-[2fr_1fr] w-full h-full auto-rows-fr place-content-center gap-4"
   >
-    <div class="slidev-layout default" :class="props.class">
+    <div
+      class="slidev-layout default h-[fit-content] self-center"
+      :class="props.class"
+    >
       <slot />
     </div>
-    <div class="w-full h-full -ml-4 mt-4" :style="style" />
+    <div class="w-full h-full -ml-4" :style="style" />
   </div>
 </template>

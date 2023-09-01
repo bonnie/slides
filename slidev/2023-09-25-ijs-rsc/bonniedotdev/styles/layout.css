@@ -36,12 +36,6 @@
   }
 }
 
-.slidev-layout.section-title {
-  @apply bg-$color-primary-100;
-}
-
-.slidev-layout.image-right {
-  li {
-    @apply: bg-$color-primary-300;
-  }
+.slidev-layout .featured {
+  @apply text-$color-primary-300 font-bold;
 }
