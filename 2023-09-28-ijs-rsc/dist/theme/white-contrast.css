@@ -145,7 +145,7 @@ section.has-dark-background h6 {
 
 .title .subtitle {
   margin-top: -1rem;
-  margin-bottom: 3rem;
+  margin-bottom: 0rem;
   font-style: italic;
   align-self: flex-end;
 }
@@ -156,13 +156,32 @@ section.has-dark-background h6 {
   align-self: flex-start;
 }
 
-.title .attribution {
+.attribution {
   margin-top: -1rem;
+  color: var(--color-primary-300);
+  font-weight: bold;
 }
 
-.years {
+.featured {
   font-weight: bold;
   color: var(--color-primary-300);
+}
+
+.title-slide .icon {
+  color: var(--color-primary-300);
+}
+
+.title-slide .title {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 0.5em;
+}
+
+.title-slide .waves {
+  position: absolute;
+  bottom: 0;
+  left: -10%;
 }
 
 /*********************************************
@@ -206,6 +225,8 @@ section.has-dark-background h6 {
   display: inline-block;
   text-align: left;
   margin: 0 0 0 1em;
+  width: fit-content;
+  align-self: center;
 }
 
 .reveal ol {
@@ -408,7 +429,7 @@ section.has-dark-background h6 {
 /*********************************************
  * LAYOUT
  *********************************************/
-.vertical-slide: {
+.vertical-stack: {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -417,6 +438,8 @@ section.has-dark-background h6 {
 .image-slide {
   display: grid;
   grid-template-columns: 1fr 1.75fr;
+  align-items: center;
+  justify-items: center;
 }
 
 .image-slide-reverse {
@@ -435,7 +458,7 @@ section.has-dark-background h6 {
   margin: 0;
 }
 .image-slide .img .caption {
-  margin-top: 0.25em;
+  margin: 0.25em auto;
 }
 
 .image-slide .content {
@@ -460,6 +483,33 @@ section.has-dark-background h6 {
 
 .reveal .footer img {
   height: 1.5em;
+}
+
+.reveal .icon-bullet-list {
+  align-self: center;
+}
+
+.reveal .icon-bullet {
+  display: grid;
+  gap: 0.5em;
+  justify-items: left;
+  grid-template-columns: 2.5rem 1fr;
+  width: fit-content;
+}
+
+.reveal .icon-bullet .icon {
+  width: 100%;
+  color: var(--color-primary-300);
+  flex-shrink: 2;
+}
+
+.reveal .icon-bullet .icon svg {
+  width: 100%;
+}
+
+.reveal img.waves {
+  margin: 0px;
+  transform: scaleX(120%);
 }
 
 /*********************************************
