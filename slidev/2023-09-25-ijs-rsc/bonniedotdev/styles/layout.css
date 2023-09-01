@@ -1,22 +1,47 @@
 :root {
-  // default theme color
-  // can be overrided by uses `themeConfig` option
   --slidev-theme-primary: #5d8392;
+  --color-secondary-300: hsl(34, 70%, 55%);
+  --color-secondary-500: hsl(26, 66%, 46%);
+  --color-secondary-800: hsl(9, 66%, 46%);
+  --color-primary-100: hsl(202, 47%, 70%);
+  --color-primary-300: hsl(202, 47%, 50%);
+  --color-primary-500: hsl(210, 51%, 41%);
+  --color-primary-700: hsl(208, 43%, 30%);
+  --color-primary-800: hsl(207, 35%, 20%);
+  --color-primary-900: hsl(208, 36%, 15%);
 }
 
 .slidev-layout.cover,
 .slidev-layout.intro {
   @apply h-full grid;
 
-  h1 {
-    @apply text-6xl leading-20;
-  }
-
   h1 + p {
     @apply -mt-2 opacity-50 mb-4;
   }
 
-  p + h2, ul + h2, table + h2 {
+  p + h2,
+  ul + h2,
+  table + h2 {
     @apply mt-10;
+  }
+}
+
+.slidev-layout {
+  @apply text-3xl font-medium text-gray-700;
+  h1 {
+    @apply text-6xl leading-20 font-bold text-$color-secondary-500;
+  }
+  ul li {
+    @apply list-disc;
+  }
+}
+
+.slidev-layout.section-title {
+  @apply bg-$color-primary-100;
+}
+
+.slidev-layout.image-right {
+  li {
+    @apply: bg-$color-primary-300;
   }
 }

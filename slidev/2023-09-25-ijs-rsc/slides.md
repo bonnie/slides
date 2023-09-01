@@ -1,9 +1,22 @@
 ---
+theme: ./bonniedotdev
+transition: slide-left
+title: Ask your doctor if server components are right for you
+fonts:
+  # basically the text
+  sans: 'Avenir Next' # Avenir Next, Quicksand, Noto Sans
+  # use with `font-serif` css class from windicss
+  serif: 'Robot Slab'
+  # for code blocks, inline code, etc.
+  mono: 'Fira Code'
+---
+
+---
 src: ./pages/01-intro/01-splash.md
 ---
 
 ---
-src: ./pages/01-intro/02-bonnie.md
+src: ./pages/01-intro/02-about-bonnie.md
 ---
 
 ---
