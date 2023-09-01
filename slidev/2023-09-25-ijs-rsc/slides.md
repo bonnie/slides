@@ -1,7 +1,7 @@
 ---
 theme: ./bonniedotdev
-transition: slide-left
-title: Ask your doctor if server components are right for you
+title: Ask your doctor if server components are right for you  
+transition: fade-out
 fonts:
   # basically the text
   sans: 'Avenir Next' # Avenir Next, Quicksand, Noto Sans
