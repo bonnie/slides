@@ -40,6 +40,12 @@
   p {
     @apply leading-10 mb-4;
   }
+  th {
+    @apply font-semibold text-2xl;
+  }
+  td {
+    @apply: font-medium text-2xl;
+  }
   .slidev-vclick-hidden {
     display: none;
   }

@@ -6,7 +6,7 @@ image: images/clients.jpg
 
 <v-clicks>
 <ul>
-<li>display (render) page</li>
+<li>display page</li>
 <li>ask for data via API</li>
 <li>run JavaScript</li>
 <li>update (re-render) <span class="featured">React component UI</span> on changes</li>
