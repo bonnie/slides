@@ -27,6 +27,10 @@ src: ./pages/01-intro/03-about-talk.md
 src: ./pages/02-defs/01-defs-cover.md
 ---
 
+---
+src: ./pages/02-defs/02-react.md
+---
+
 ## transition: fade-out
 
 # What is Slidev?

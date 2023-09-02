@@ -34,8 +34,16 @@
   ul li {
     @apply list-disc;
   }
-}
-
-.slidev-layout .featured {
-  @apply text-$color-primary-300 font-bold;
+  p {
+    @apply leading-10 mb-4;
+  }
+  .slidev-vclick-hidden {
+    display: none;
+  }
+  .featured {
+    @apply text-$color-primary-300 font-bold;
+  }
+  .featured-2 {
+    @apply text-$color-secondary-500 font-bold;
+  }
 }

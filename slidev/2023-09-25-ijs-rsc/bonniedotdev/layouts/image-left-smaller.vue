@@ -19,27 +19,27 @@ const props = defineProps({
   },
 });
 
-const imageStyle = computed(() =>
+const style = computed(() =>
   handleBackground(props.image, false, props.backgroundSize)
 );
 
 const imageClass = computed(() => {
-  const margin = props.imageMargin ? "p-4" : "";
-  const classString = `w-full h-full ${margin}`;
+  const width = props.imageMargin ? "w-[90%] justify-self-center" : "w-full";
+  const classString = `h-full ${width}`;
   return classString;
 });
 </script>
 
 <template>
   <div
-    class="grid grid-cols-[2fr_1.25fr] w-full h-full auto-rows-fr place-content-center"
+    class="grid grid-cols-[1fr_2fr] w-full h-full auto-rows-fr place-content-center"
   >
+    <div :class="imageClass" :style="style" />
     <div
       class="slidev-layout default h-[fit-content] pl-6 pt-8"
       :class="props.class"
     >
       <slot />
     </div>
-    <div :class="imageClass" :style="style" />
   </div>
 </template>
