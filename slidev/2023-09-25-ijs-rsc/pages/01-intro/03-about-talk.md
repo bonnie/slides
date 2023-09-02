@@ -1,6 +1,6 @@
 ---
 layout: image-left
-image: images/hiker.jpg
+image: images/hiker-2.jpg
 ---
 
 <div class="-mx-6">
