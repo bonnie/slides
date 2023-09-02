@@ -11,7 +11,7 @@ const props = defineProps({
   },
   backgroundSize: {
     type: String,
-    default: "contain",
+    default: "cover",
   },
 });
 
@@ -22,14 +22,14 @@ const style = computed(() =>
 
 <template>
   <div
-    class="grid grid-cols-[2fr_1fr] w-full h-full auto-rows-fr place-content-center gap-4"
+    class="grid grid-cols-[2fr_1.25fr] w-full h-full auto-rows-fr place-content-center"
   >
     <div
-      class="slidev-layout default h-[fit-content] self-center"
+      class="slidev-layout default h-[fit-content] pl-6 pt-8"
       :class="props.class"
     >
       <slot />
     </div>
-    <div class="w-full h-full -ml-4" :style="style" />
+    <div class="w-full h-full" :style="style" />
   </div>
 </template>

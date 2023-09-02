@@ -20,6 +20,10 @@ src: ./pages/01-intro/02-about-bonnie.md
 ---
 
 ---
+src: ./pages/01-intro/03-about-talk.md
+---
+
+---
 src: ./pages/02-defs/01-defs-cover.md
 ---
 

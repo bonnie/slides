@@ -1,9 +1,9 @@
 ---
 layout: image-right-small
-image: images/doctor-b-2-circle.png
+image: images/doctor-b.jpg
 ---
 
-# About Bonnie
+<h1 class="p-8">About Bonnie</h1>
 
 <v-clicks>
 
