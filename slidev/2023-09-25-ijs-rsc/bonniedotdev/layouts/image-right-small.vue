@@ -40,6 +40,6 @@ const imageClass = computed(() => {
     >
       <slot />
     </div>
-    <div :class="imageClass" :style="style" />
+    <div :class="imageClass" :style="imageStyle" />
   </div>
 </template>

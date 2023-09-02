@@ -4,7 +4,7 @@ import { computed } from "vue";
 const style = computed(() => {
   return $slidev.nav.currentLayout.startsWith("image-left")
     ? { right: "50%" }
-    : { left: "50%" };
+    : { right: "0" };
 });
 </script>
 

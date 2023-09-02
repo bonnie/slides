@@ -31,6 +31,19 @@ src: ./pages/02-defs/01-defs-cover.md
 src: ./pages/02-defs/02-react.md
 ---
 
+---
+src: ./pages/02-defs/03-server.md
+---
+
+---
+src: ./pages/02-defs/04-client.md
+---
+
+---
+src: ./pages/02-defs/05-tlas.md
+---
+
+
 ## transition: fade-out
 
 # What is Slidev?
