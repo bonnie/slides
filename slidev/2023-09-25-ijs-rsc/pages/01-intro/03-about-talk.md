@@ -8,8 +8,7 @@ image: images/hiker-2.jpg
 
 <v-clicks>
 
-<IconBullet icon="icons/key.svg">Definitions and acronyms</IconBullet>
-<IconBullet icon="icons/laptop.svg">Client components</IconBullet>
+<IconBullet icon="icons/key.svg">Definitions</IconBullet>
 <IconBullet icon="icons/server.svg">Server components: <span class="featured">what</span></IconBullet>
 <IconBullet icon="icons/shield-question.svg">Server components: <span class="featured">why</span></IconBullet>
 <IconBullet icon="icons/clock-10.svg">Server components: <span class="featured">when</span></IconBullet>

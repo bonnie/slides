@@ -40,7 +40,19 @@ src: ./pages/02-defs/04-client.md
 ---
 
 ---
-src: ./pages/02-defs/05-tlas.md
+src: ./pages/03-rsc-what/01-rsc-what-cover.md
+---
+
+---
+src: ./pages/03-rsc-what/02-rendering-tlas.md
+---
+
+---
+src: ./pages/03-rsc-what/03-interactivity.md
+---
+
+---
+src: ./pages/03-rsc-what/04-interactivity-quiz-1.md
 ---
 
 

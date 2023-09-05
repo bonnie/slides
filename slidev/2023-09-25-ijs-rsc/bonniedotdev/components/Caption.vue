@@ -2,9 +2,13 @@
 import { computed } from "vue";
 
 const style = computed(() => {
-  return $slidev.nav.currentLayout.startsWith("image-left")
-    ? { right: "50%" }
-    : { right: "0" };
+  if ($slidev.nav.currentLayout.startsWith("image-left")) {
+    if ($slidev.nav.currentLayout.substring("small")) {
+      return { left: "0" };
+    } else {
+      return { right: "50%" };
+    }
+  } else return { right: "0" };
 });
 </script>
 

@@ -56,3 +56,12 @@
     @apply text-$color-secondary-500 font-bold;
   }
 }
+
+.slidev-layout.gif-quiz {
+  .slidev-vclick-hidden {
+    display: inherit;
+  }
+  h1 {
+    @apply mb-0;
+  }
+}
