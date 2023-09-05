@@ -67,6 +67,42 @@ src: ./pages/03-rsc-what/06-interactivity-quiz-3.md
 src: ./pages/03-rsc-what/07-interactivity-quiz-4.md
 ---
 
+---
+src: ./pages/03-rsc-what/08-no-hooks.md
+---
+
+---
+src: ./pages/04-rsc-why/01-rsc-why-cover.md
+---
+
+---
+src: ./pages/04-rsc-why/02-benefits.md
+---
+
+---
+src: ./pages/04-rsc-why/03-vercel-quote.md
+---
+
+---
+src: ./pages/04-rsc-why/04-direct-server-access.md
+---
+
+
+
+## transition: fade-out
+---
+src: ./pages/04-rsc-why/02-benefits.md
+---
+
+
+
+## transition: fade-out
+---
+src: ./pages/04-rsc-why/02-benefits.md
+---
+
+
+
 ## transition: fade-out
 
 # What is Slidev?

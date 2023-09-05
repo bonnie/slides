@@ -4,7 +4,8 @@ layout: default
 
 <h1 class="-mt-4 text-2xl">TLAs <span v-click>(Three-Letter Acronyms)</span></h1>
 
-<table class="-mt-4">
+<div class="overflow-hidden">
+<table class="-mt-4 ">
 <thead v-click>
 <tr><th class="font-bold w-[37%]">TLA</th><th class="w-[38%]">when React code runs</th><th>where</th></tr>
 </thead>
@@ -21,3 +22,4 @@ layout: default
 </v-clicks>
 </tbody>
 </table>
+</div>
