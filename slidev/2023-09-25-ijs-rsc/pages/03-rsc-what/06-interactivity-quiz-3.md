@@ -1,6 +1,7 @@
 ---
-
+layout: gif-quiz
+image: "/gifs/accordion.gif"
+answer: "✅ yes (state)"
 ---
 
-- RSCs never re-render
-- no interactivity
+# Re-render required?

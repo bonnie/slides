@@ -1,6 +1,7 @@
 ---
-
+layout: gif-quiz
+image: "/gifs/mouse-over.gif"
+answer: "⛔️ no (CSS)"
 ---
 
-- RSCs never re-render
-- no interactivity
+# Re-render required?

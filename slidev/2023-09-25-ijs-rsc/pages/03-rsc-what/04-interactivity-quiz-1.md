@@ -1,7 +1,7 @@
 ---
 layout: gif-quiz
 image: "/gifs/dark-mode.gif"
-answer: "✅ yes"
+answer: "✅ yes (state)"
 ---
 
-# Interactive?
+# Re-render required?

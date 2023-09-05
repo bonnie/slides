@@ -1,6 +1,7 @@
 ---
-
+layout: gif-quiz
+image: "/gifs/navigate.gif"
+answer: "⛔️ no (new component)"
 ---
 
-- RSCs never re-render
-- no interactivity
+# Re-render required?

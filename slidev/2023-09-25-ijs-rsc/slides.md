@@ -55,6 +55,17 @@ src: ./pages/03-rsc-what/03-interactivity.md
 src: ./pages/03-rsc-what/04-interactivity-quiz-1.md
 ---
 
+---
+src: ./pages/03-rsc-what/05-interactivity-quiz-2.md
+---
+
+---
+src: ./pages/03-rsc-what/06-interactivity-quiz-3.md
+---
+
+---
+src: ./pages/03-rsc-what/07-interactivity-quiz-4.md
+---
 
 ## transition: fade-out
 
