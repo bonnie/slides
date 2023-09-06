@@ -8,18 +8,28 @@ const props = defineProps({
   answer: {
     type: String,
   },
+  answer: {
+    type: String,
+  },
+  reason: {
+    type: String,
+  },
 });
+
+const icon = computed(() => `icons/${props.answer}.svg`);
 </script>
 
 <template>
   <div
     class="slidev-layout gif-quiz flex flex-col items-center justify-between"
   >
-    <h1>Server or client component?</h1>
-    <div class="flex justify-center items-center h-[60%]">
-      <slot />
-      <img class="h-full" :src="props.image" />
+    <div class="text-5xl text-$color-secondary-500 font-bold">
+      Server or client component?
     </div>
-    <span class="featured text-5xl" v-click>{{ props.answer }}</span>
+    <slot />
+    <img class="h-[60%]" :src="props.image" />
+    <IconBullet class="featured text-4xl mt-4" v-click :icon="icon"
+      >{{ props.answer }} ({{ props.reason }})</IconBullet
+    >
   </div>
 </template>

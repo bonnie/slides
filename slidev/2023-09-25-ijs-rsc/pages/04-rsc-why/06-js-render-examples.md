@@ -21,11 +21,12 @@ function Equipment() {
         Everything you need to train your dragon
       </span>
     </div>
+  )
 }
 
 ```
 
-</div>
+  </div>
   </div>
 
 ::right::
@@ -44,6 +45,5 @@ flowchart LR
     C -->|C| F[dungeon]
 ```
 
-</div>
-
+  </div>
   </div>

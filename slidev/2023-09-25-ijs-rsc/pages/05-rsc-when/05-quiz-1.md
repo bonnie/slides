@@ -1,7 +1,8 @@
 ---
 layout: rsc-client-quiz
-image: images/tooltip.png
-answer: "💻 client (state)"
+image: images/progress.png
+answer: "client"
+reason: state
 ---
 
-Fancy HTML tooltip
+Progress bar

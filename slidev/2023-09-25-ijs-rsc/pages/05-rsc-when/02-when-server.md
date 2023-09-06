@@ -3,11 +3,11 @@ layout: image-left-smaller
 image: images/server.jpg
 ---
 
-# Use RSCs for...
+# RSCs for...
 
 <v-clicks>
 
-- db or fs access
+- database or filesystem access
 - computationally intensive renders
 - large packages for non-interactive elements
 

@@ -65,7 +65,8 @@
   }
 }
 
-.slidev-layout.gif-quiz {
+.slidev-layout.gif-quiz,
+.slidev-layout.rsc-client-quiz {
   .slidev-vclick-hidden {
     display: inherit;
   }

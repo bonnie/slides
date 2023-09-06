@@ -1,13 +1,13 @@
 ---
-layout: image-left
+layout: image-right-small
 image: images/clients.jpg
 ---
-# Use client components when...
+# Client components for...
 
 <v-clicks>
 
-- you need a component to re-render
-- a client needs state
+- component that needs to re-render
+- a component needs state
 - usually for user interaction
 
 </v-clicks>

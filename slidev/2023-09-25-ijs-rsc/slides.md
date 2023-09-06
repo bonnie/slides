@@ -140,14 +140,24 @@ src: ./pages/05-rsc-when/08-quiz-4.md
 ---
 
 ---
-src: ./pages/05-rsc-when/09-not-covered.md
+src: ./pages/05-rsc-when/09-quiz-5.md
 ---
 
 ---
-src: ./pages/05-rsc-when/10-further-reading.md
+src: ./pages/06-i-want-more/01-more-cover.md
 ---
 
+---
+src: ./pages/06-i-want-more/02-not-covered.md
+---
 
+---
+src: ./pages/06-i-want-more/03-further-reading.md
+---
+
+---
+src: ./pages/06-i-want-more/04-howd.md
+---
 
 ## transition: fade-out
 

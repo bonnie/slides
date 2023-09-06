@@ -1,7 +1,8 @@
 ---
 layout: rsc-client-quiz
-image: images/progress-bar.png
-answer: "💻 client (re-render)"
+image: images/hover-card.png
+answer: "client"
+reason: "re-render"
 ---
 
-Progress bar
+Show card on mouse hover
