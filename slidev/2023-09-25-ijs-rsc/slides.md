@@ -80,25 +80,23 @@ src: ./pages/04-rsc-why/02-benefits.md
 ---
 
 ---
-src: ./pages/04-rsc-why/03-vercel-quote.md
+src: ./pages/04-rsc-why/03-direct-server-access.md
 ---
 
 ---
-src: ./pages/04-rsc-why/04-direct-server-access.md
+src: ./pages/04-rsc-why/04-compare-data.md
 ---
 
-
-
-## transition: fade-out
 ---
-src: ./pages/04-rsc-why/02-benefits.md
+src: ./pages/04-rsc-why/05-js-render.md
 ---
 
-
-
-## transition: fade-out
 ---
-src: ./pages/04-rsc-why/02-benefits.md
+src: ./pages/04-rsc-why/06-js-render-examples.md
+---
+
+---
+src: ./pages/04-rsc-why/09-vercel-quote.md
 ---
 
 
