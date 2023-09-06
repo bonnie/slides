@@ -12,7 +12,7 @@ layout: two-cols-header
 ```js
 async function DragonHabitats() {
   // getHabitatsFromDb is defined elsewhere
-  const shows = await getHabitatsFromDb();
+  const habitats = await getHabitatsFromDb();
 
   // display habitat components
   return (
@@ -30,7 +30,7 @@ async function DragonHabitats() {
 ```js {3}
 async function DragonHabitats() {
   // getHabitatsFromDb is defined elsewhere
-  const shows = await getHabitatsFromDb();
+  const habitats = await getHabitatsFromDb();
 
   // display habitat components
   return (

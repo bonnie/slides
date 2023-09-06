@@ -14,7 +14,6 @@ image: images/cairn.jpg
 <li>faster than client</li>
 <li>less JS to client</li>
 </ul>
-<li>No hydration necessary</li>
 <li>Data streams when ready</li>
 </ol>
 

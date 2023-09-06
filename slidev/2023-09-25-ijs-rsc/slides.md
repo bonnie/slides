@@ -96,7 +96,55 @@ src: ./pages/04-rsc-why/06-js-render-examples.md
 ---
 
 ---
+src: ./pages/04-rsc-why/07-streaming.md
+---
+
+---
+src: ./pages/04-rsc-why/08-compare-streaming.md
+---
+
+---
 src: ./pages/04-rsc-why/09-vercel-quote.md
+---
+
+---
+src: ./pages/05-rsc-when/01-rsc-when-cover.md
+---
+
+---
+src: ./pages/05-rsc-when/02-when-server.md
+---
+
+---
+src: ./pages/05-rsc-when/03-when-client.md
+---
+
+---
+src: ./pages/05-rsc-when/04-conjunction.md
+---
+
+---
+src: ./pages/05-rsc-when/05-quiz-1.md
+---
+
+---
+src: ./pages/05-rsc-when/06-quiz-2.md
+---
+
+---
+src: ./pages/05-rsc-when/07-quiz-3.md
+---
+
+---
+src: ./pages/05-rsc-when/08-quiz-4.md
+---
+
+---
+src: ./pages/05-rsc-when/09-not-covered.md
+---
+
+---
+src: ./pages/05-rsc-when/10-further-reading.md
 ---
 
 

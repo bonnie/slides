@@ -1,15 +1,15 @@
 ---
-layout: image-right-small
+layout: image-left-smaller
 image: images/server.jpg
 ---
-# Server Role
+
+# Use RSCs for...
 
 <v-clicks>
 
-- prepare instructions for web page (JavaScript, HTML, CSS)
-- send instructions to client
-- communicate with database
-- pass to client with page or via API
+- db or fs access
+- computationally intensive renders
+- large packages for non-interactive elements
 
 </v-clicks>
 

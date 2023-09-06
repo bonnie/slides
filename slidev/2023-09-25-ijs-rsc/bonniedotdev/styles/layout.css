@@ -1,5 +1,5 @@
 :root {
-  --slidev-theme-primary: #5d8392;
+  --slidev-theme-primary: hsl(210, 51%, 41%);
   --color-secondary-300: hsl(34, 70%, 55%);
   --color-secondary-500: hsl(26, 66%, 46%);
   --color-secondary-800: hsl(9, 66%, 46%);
