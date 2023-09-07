@@ -120,27 +120,35 @@ src: ./pages/05-rsc-when/03-when-client.md
 ---
 
 ---
-src: ./pages/05-rsc-when/04-conjunction.md
+src: ./pages/05-rsc-when/04-when-both.md
 ---
 
 ---
-src: ./pages/05-rsc-when/05-quiz-1.md
+src: ./pages/05-rsc-when/05-both-example.md
 ---
 
 ---
-src: ./pages/05-rsc-when/06-quiz-2.md
+src: ./pages/05-rsc-when/06-quiz-1.md
 ---
 
 ---
-src: ./pages/05-rsc-when/07-quiz-3.md
+src: ./pages/05-rsc-when/07-quiz-2.md
 ---
 
 ---
-src: ./pages/05-rsc-when/08-quiz-4.md
+src: ./pages/05-rsc-when/08-quiz-3.md
 ---
 
 ---
-src: ./pages/05-rsc-when/09-quiz-5.md
+src: ./pages/05-rsc-when/09-quiz-4.md
+---
+
+---
+src: ./pages/05-rsc-when/10-quiz-5.md
+---
+
+---
+src: ./pages/05-rsc-when/11-quiz-6.md
 ---
 
 ---
