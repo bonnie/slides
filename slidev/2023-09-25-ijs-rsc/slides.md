@@ -52,19 +52,23 @@ src: ./pages/03-rsc-what/03-interactivity.md
 ---
 
 ---
-src: ./pages/03-rsc-what/04-interactivity-quiz-1.md
+src: ./pages/03-rsc-what/04-interactivity-quiz.md
 ---
 
 ---
-src: ./pages/03-rsc-what/05-interactivity-quiz-2.md
+src: ./pages/03-rsc-what/05-interactivity-quiz-1.md
 ---
 
 ---
-src: ./pages/03-rsc-what/06-interactivity-quiz-3.md
+src: ./pages/03-rsc-what/06-interactivity-quiz-2.md
 ---
 
 ---
-src: ./pages/03-rsc-what/07-interactivity-quiz-4.md
+src: ./pages/03-rsc-what/07-interactivity-quiz-3.md
+---
+
+---
+src: ./pages/03-rsc-what/08-interactivity-quiz-4.md
 ---
 
 ---
@@ -128,27 +132,31 @@ src: ./pages/05-rsc-when/05-both-example.md
 ---
 
 ---
-src: ./pages/05-rsc-when/06-quiz-1.md
+src: ./pages/05-rsc-when/06-rsc-quiz.md
 ---
 
 ---
-src: ./pages/05-rsc-when/07-quiz-2.md
+src: ./pages/05-rsc-when/07-quiz-1.md
 ---
 
 ---
-src: ./pages/05-rsc-when/08-quiz-3.md
+src: ./pages/05-rsc-when/08-quiz-2.md
 ---
 
 ---
-src: ./pages/05-rsc-when/09-quiz-4.md
+src: ./pages/05-rsc-when/09-quiz-3.md
 ---
 
 ---
-src: ./pages/05-rsc-when/10-quiz-5.md
+src: ./pages/05-rsc-when/10-quiz-4.md
 ---
 
 ---
-src: ./pages/05-rsc-when/11-quiz-6.md
+src: ./pages/05-rsc-when/11-quiz-5.md
+---
+
+---
+src: ./pages/05-rsc-when/12-quiz-6.md
 ---
 
 ---
