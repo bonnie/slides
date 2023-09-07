@@ -63,6 +63,10 @@
   .col-right {
     @apply -mt-8;
   }
+
+  dd {
+    @apply m-4;
+  }
 }
 
 .slidev-layout.gif-quiz,
