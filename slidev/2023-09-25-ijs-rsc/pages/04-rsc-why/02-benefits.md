@@ -9,7 +9,7 @@ image: images/cairn.jpg
 <v-clicks>
 <ol>
 <li>Direct access to server</li>
-<li>Component renders on server</li>
+<li>Component    renders on server</li>
 <ul class="ml-8">
 <li>faster than client</li>
 <li>less JS to client</li>

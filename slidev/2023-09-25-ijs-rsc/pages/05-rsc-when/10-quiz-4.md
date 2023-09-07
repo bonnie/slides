@@ -1,8 +1,8 @@
 ---
 layout: rsc-client-quiz
-image: 
+image: gifs/carousel.gif
 answer: "both"
 reason: "database and state"
 ---
 
-bonnie.dev quote carousel
+Rotating review component
