@@ -92,23 +92,15 @@ src: ./pages/04-rsc-why/04-compare-data.md
 ---
 
 ---
-src: ./pages/04-rsc-why/05-js-render.md
+src: ./pages/04-rsc-why/06-js-render.md
 ---
 
 ---
-src: ./pages/04-rsc-why/06-js-render-examples.md
+src: ./pages/04-rsc-why/07-js-render-examples.md
 ---
 
 ---
-src: ./pages/04-rsc-why/07-streaming.md
----
-
----
-src: ./pages/04-rsc-why/08-compare-streaming.md
----
-
----
-src: ./pages/04-rsc-why/09-vercel-quote.md
+src: ./pages/04-rsc-why/10-vercel-quote.md
 ---
 
 ---

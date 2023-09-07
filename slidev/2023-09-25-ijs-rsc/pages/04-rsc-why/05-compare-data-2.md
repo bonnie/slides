@@ -1,22 +1,16 @@
 ---
-layout: two-cols-header
+layout: default
 ---
 
-# Data from database
+# Code diff
 
-::left::
-
-<div v-click>
-<div class="featured">Client component</div>
-
-
-```jsx {2-7} {lines: true}
+```jsx {monaco-diff}
 function DragonHabitats() {
-  const [habitats, setHabitats] = useState([]);
+  const [shows, setShows] = useState([]);
   useEffect(() => {
-    fetch("/api/habitats")
+    fetch("/api/shows")
       .then(data => data.json())
-      .then(setHabitats)
+      .then(setShows)
   }, []);
 
   // display habitat components
@@ -29,16 +23,7 @@ function DragonHabitats() {
     </>
   );
 }
-```
-
-</div>
-
-::right::
-
-<div v-click>
-<div  class="featured">RSC</div>
-
-```jsx {2-3} {lines: true}
+~~~
 async function DragonHabitats() {
   // getHabitatsFromDb is defined elsewhere
   const habitats = await getHabitatsFromDb();
@@ -54,7 +39,3 @@ async function DragonHabitats() {
   );
 }
 ```
-
-</div>
-
-

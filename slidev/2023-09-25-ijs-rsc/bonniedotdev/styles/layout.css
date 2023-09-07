@@ -78,3 +78,16 @@
 .slidev-layout.two-cols-header {
   @apply gap-8 grid-rows-[1fr_5fr];
 }
+
+.slidev-layout .slidev-code {
+  code {
+    @apply text-lg leading-7;
+  }
+}
+
+/* hacky */
+.slidev-layout.two-cols-header .slidev-code {
+  code {
+    @apply text-xs leading-3;
+  }
+}

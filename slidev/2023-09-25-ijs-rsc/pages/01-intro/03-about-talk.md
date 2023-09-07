@@ -18,6 +18,9 @@ image: images/hiker-2.jpg
         <IconBullet icon="icons/clock-10.svg">
            Server components: <span class="featured">when</span>
         </IconBullet>
+        <IconBullet icon="icons/badge-check.svg">
+           Quiz! Server component or client component?
+        </IconBullet>
     </v-clicks>
 </div>
 

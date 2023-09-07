@@ -1,7 +1,8 @@
 ---
 layout: rsc-client-quiz
-image: images/hover-card.png
+image: 
 answer: "both"
 reason: "database and state"
 ---
 
+bonnie.dev quote carousel
