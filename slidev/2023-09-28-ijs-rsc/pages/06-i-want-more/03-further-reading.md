@@ -10,13 +10,9 @@ dd, dt {
 dd {
   @apply pb-4;
 }
-h1.small {
-  font-size: 2.25rem !important;
-  line-height: 1 !important; 
-}
   </style>
 
-<h1 class="small mt-0 pb-2">Further reading</h1>
+<h1 class="h1-xs mt-0 pb-2">Further reading</h1>
 
 <v-clicks>
 

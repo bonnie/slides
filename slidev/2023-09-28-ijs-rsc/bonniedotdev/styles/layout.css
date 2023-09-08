@@ -31,6 +31,14 @@
   h1 {
     @apply text-6xl leading-20 font-bold text-$color-secondary-500;
   }
+  h1.h1-xs {
+    font-size: 2.25rem !important;
+    line-height: 1 !important;
+  }
+  h1.h1-sm {
+    font-size: 3rem !important;
+    line-height: 1 !important;
+  }
   ul li {
     @apply list-disc;
   }

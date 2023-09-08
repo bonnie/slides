@@ -1,6 +1,6 @@
 ---
 layout: gif-quiz
-image: "/gifs/dark-mode.gif"
+image: "gifs/dark-mode.gif"
 answer: "✅ yes (state)"
 ---
 

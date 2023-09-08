@@ -3,7 +3,7 @@
     <slot />
     <img
       class="w-[120%] -ml-[10%] self-center max-w-none"
-      src="images/waves-rectangle.svg"
+      src="/images/waves-rectangle.svg"
       alt=""
     />
   </div>

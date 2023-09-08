@@ -8,9 +8,6 @@ const props = defineProps({
   answer: {
     type: String,
   },
-  answer: {
-    type: String,
-  },
   reason: {
     type: String,
   },

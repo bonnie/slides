@@ -3,7 +3,7 @@ layout: image-right
 image: images/bonnie-color.jpg
 ---
 
-# More Bonnie! 
+<h1 class="h1-sm">More Bonnie!</h1>
 
 <v-clicks class="mt-20">
 

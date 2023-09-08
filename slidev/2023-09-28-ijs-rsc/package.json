@@ -2,7 +2,8 @@
   "name": "2023-09-25-ijs-rsc",
   "private": true,
   "scripts": {
-    "build": "slidev build",
+    "build": "slidev build --base /slides-repository/${PWD##*/}",
+    "deploy": "bash scripts/deploy.sh",
     "dev": "slidev --open",
     "export": "slidev export"
   },

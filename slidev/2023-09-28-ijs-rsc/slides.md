@@ -162,5 +162,10 @@ src: ./pages/06-i-want-more/03-further-reading.md
 ---
 
 ---
-src: ./pages/06-i-want-more/04-howd.md
+src: ./pages/06-i-want-more/04-bonnie.md
 ---
+
+---
+src: ./pages/06-i-want-more/05-thank-you.md
+---
+

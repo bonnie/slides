@@ -1,6 +1,6 @@
 ---
 layout: gif-quiz
-image: "/gifs/mouse-over.gif"
+image: "gifs/mouse-over.gif"
 answer: "⛔️ no (CSS)"
 ---
 
