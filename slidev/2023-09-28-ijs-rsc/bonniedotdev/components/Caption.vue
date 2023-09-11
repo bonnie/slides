@@ -14,7 +14,7 @@ const style = computed(() => {
 
 <template>
   <div
-    class="fixed bottom-0 p-4 text-white text-sm bg-gray-800/75"
+    class="fixed bottom-0 p-1 text-white text-sm bg-gray-800/75"
     :style="style"
   >
     <slot />

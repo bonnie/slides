@@ -27,7 +27,7 @@ EOM
 
 
 # exclude files that start with _
-for PAGE in $(ls ./pages/*/*.md | grep -v '/_')
+for PAGE in $(ls ./pages/*/*.md | grep -v '/_' | grep -v '01-splash.md' )
 do
   cat >> $FILE <<- EOM
 ---

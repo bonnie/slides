@@ -11,6 +11,10 @@ src: ./pages/01-intro/01-splash.md
 
 
 ---
+src: ./pages/01-intro/01-splash.md
+---
+
+---
 src: ./pages/01-intro/02-about-bonnie.md
 ---
 
@@ -71,11 +75,7 @@ src: ./pages/03-chain-of-comms/04-why-not-both.md
 ---
 
 ---
-src: ./pages/03-chain-of-comms/05-best-of-both-not.md
----
-
----
-src: ./pages/03-chain-of-comms/06-what-if.md
+src: ./pages/03-chain-of-comms/05-no-interactivity.md
 ---
 
 ---

@@ -6,10 +6,10 @@ image: images/hiker-2.jpg
 <div class="-mx-6">
     <h1 class=" pb-8">About this talk</h1>
     <v-clicks>
-        <IconBullet icon="icons/key.svg">
+        <IconBullet icon="icons/repeat.svg">
            React and Interactivity
         </IconBullet>
-        <IconBullet icon="icons/server.svg">
+        <IconBullet icon="icons/link.svg">
            Chain of Communication
         </IconBullet>
         <IconBullet icon="icons/blocks.svg">
@@ -19,7 +19,7 @@ image: images/hiker-2.jpg
            When to use RSCs
         </IconBullet>
         <IconBullet icon="icons/badge-check.svg">
-           Quiz! Server or client component?
+           Quiz! Server or client?
         </IconBullet>
     </v-clicks>
 </div>

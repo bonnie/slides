@@ -7,9 +7,8 @@ image: images/interactive.jpg
 
 <v-clicks>
 
-- <span class="featured">Interactivity</span><br/>: component updates in response to user input
-- update requires <span class="featured">re-render</span>
-  - re-run React code with to reflect updates
+- <span class="featured">Interactivity</span><br/>component updates in response to user input
+- update requires <span class="featured">re-render</span>:<br />re-run React code with to reflect updates
 
 </v-clicks>
 
