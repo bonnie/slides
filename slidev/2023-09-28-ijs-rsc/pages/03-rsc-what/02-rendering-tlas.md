@@ -18,7 +18,7 @@ layout: default
 
 <tr><td><span class="featured">RSC</span><br/>React Server Component</td><td>on build,<br/>or page request</td><td>server</td></tr>
 
-<tr><td><span class="featured">CSR</span><br/>Client-Side Rendering</td><td>on page request<br />or component change</td><td>server, <span class="featured-2">then</span> client</td></tr>
+<tr><td><span class="featured">CSR</span><br/>Client-Side Rendering</td><td>on page load<br />or component change</td><td>server, <span class="featured-2">then</span> client</td></tr>
 </v-clicks>
 </tbody>
 </table>

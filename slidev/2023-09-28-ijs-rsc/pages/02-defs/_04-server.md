@@ -9,7 +9,7 @@ image: images/server.jpg
 - prepare instructions for web page (JavaScript, HTML, CSS)
 - send instructions to client
 - communicate with database
-- pass to client with page or via API
+
 
 </v-clicks>
 

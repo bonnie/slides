@@ -1,5 +1,7 @@
 #!/bin/bash
 
+npm run build
+
 DEST_DIR=~/src/bonniedotdev-next/public/slides-repository/${PWD##*/}
 echo "deploying to $DEST_DIR"
 

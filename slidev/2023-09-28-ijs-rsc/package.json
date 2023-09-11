@@ -10,7 +10,8 @@
   "dependencies": {
     "@slidev/cli": "^0.43.0-beta.3",
     "@slidev/theme-default": "latest",
-    "@slidev/theme-seriph": "latest"
+    "@slidev/theme-seriph": "latest",
+    "lucide-vue-next": "^0.276.0"
   },
   "devDependencies": {
     "@iconify-json/ic": "^1.1.14",

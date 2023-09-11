@@ -34,7 +34,7 @@ src: ./pages/02-defs/03-disclaimer.md
 ---
 
 ---
-src: ./pages/02-defs/04-chain-of-comms.md
+src: ./pages/02-defs/04-major-players.md
 ---
 
 ---

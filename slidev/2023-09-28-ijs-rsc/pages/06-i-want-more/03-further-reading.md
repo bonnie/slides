@@ -16,14 +16,26 @@ dd {
 
 <v-clicks>
 
+<div>
 <dt><a href="https://vercel.com/blog/understanding-react-server-components">Understanding React Server Components</a></dt>
   <dd>Excellent introductory blog post from Vercel</dd>
-<dt><a href="https://www.joshwcomeau.com/react/server-components">Making Sense of React Server Components</a></dt>
+  </div>
+
+<div>
+<dt><a href="https://www.joshwcomeau.com/react/server-components">Making Sense of React Server 
+Components</a></dt>
   <dd>Useful graphics to visualize sequence of events</dd>
+</div>
+
+<div>
 <dt><a href="https://demystifying-rsc.vercel.app/">Demystifying React Server Components...</a></dt>
   <dd>Technical discussion with helpful examples</dd>
+</div>
+
+<div>
 <dt><a href="https://nextjs.org/docs/app/building-your-application/rendering/composition-patterns#when-to-use-server-and-client-components">When to use Client and Server components</a></dt>
   <dd>Table with guidelines, from Vercel docs</dd>
+</div>
 
 </v-clicks>
 
