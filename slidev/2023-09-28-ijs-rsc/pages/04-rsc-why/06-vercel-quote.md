@@ -2,7 +2,7 @@
 layout: quote
 ---
 
-# In sum
+# Put another way...
 
 <quote>
 <div v-click>&ldquo;...the server,</div>

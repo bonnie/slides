@@ -1,5 +1,6 @@
 #!/bin/bash
 
+npm run generate-slides-md
 npm run build
 
 DEST_DIR=~/src/bonniedotdev-next/public/slides-repository/${PWD##*/}

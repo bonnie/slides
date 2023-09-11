@@ -4,12 +4,12 @@ image: images/cairn.jpg
 ---
 
 <div class="ml-8">
-<h1>RSC Benefits</h1>
+<h1>React Server Components</h1>
 
 <v-clicks>
 <ol>
-<li>Direct access to server</li>
-<li>Component    renders on server</li>
+<li>Direct access to database</li>
+<li>Component renders **only** on server</li>
 <ul class="ml-8">
 <li>faster than client</li>
 <li>less JS to client</li>

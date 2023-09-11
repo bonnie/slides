@@ -7,19 +7,19 @@ image: images/hiker-2.jpg
     <h1 class=" pb-8">About this talk</h1>
     <v-clicks>
         <IconBullet icon="icons/key.svg">
-           Definitions
+           React and Interactivity
         </IconBullet>
         <IconBullet icon="icons/server.svg">
-           Server components: <span class="featured">what</span>
+           Chain of Communication
         </IconBullet>
-        <IconBullet icon="icons/shield-question.svg">
-           Server components: <span class="featured">why</span>
+        <IconBullet icon="icons/blocks.svg">
+           React Server Components
         </IconBullet>
         <IconBullet icon="icons/clock-10.svg">
-           Server components: <span class="featured">when</span>
+           When to use RSCs
         </IconBullet>
         <IconBullet icon="icons/badge-check.svg">
-           Quiz! Server component or client component?
+           Quiz! Server or client component?
         </IconBullet>
     </v-clicks>
 </div>

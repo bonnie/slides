@@ -5,7 +5,8 @@
     "build": "slidev build --base /slides-repository/${PWD##*/}",
     "deploy": "bash scripts/deploy.sh",
     "dev": "slidev --open",
-    "export": "slidev export"
+    "export": "slidev export",
+    "generate-slides-md": "bash scripts/generate-slides-md.sh"
   },
   "dependencies": {
     "@slidev/cli": "^0.43.0-beta.3",
