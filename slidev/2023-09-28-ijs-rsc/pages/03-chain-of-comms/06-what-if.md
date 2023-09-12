@@ -3,13 +3,15 @@ layout: image-right-small
 image: images/tool.jpg
 ---
 
-# Enter: React Server Components
+<h1 class="h1-small">React Server Components</h1>
 
-<v-clicks>
+<v-clicks class="mt-8">
 
-- separate server render from client render
-- don't do both everwhere
-  - instead, do each where needed
+- server render <span class="featured">or</span> client render
+
+- don't do both everywhere
+
+- instead, do each where needed
 
 </v-clicks>
 

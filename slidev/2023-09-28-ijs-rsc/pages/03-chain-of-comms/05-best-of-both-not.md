@@ -3,7 +3,13 @@ layout: image-left-smaller
 image: images/win.jpg
 ---
 
-<h1>SSR: best of both worlds<span v-click="2" class="featured">?</span></h1>
+<style>
+    li {
+        @apply -ml-4
+    }
+    </style>
+
+<h1 class="h1-small">SSR: best of both worlds<span v-click="2" class="featured">?</span></h1>
 
 <li v-click="1">
 access to db <span class="featured">and</span> interactivity
@@ -11,15 +17,15 @@ access to db <span class="featured">and</span> interactivity
 
 <span v-click="3">What if there's no interactivity?</span>
 
-<li v-click="5" >
-component never needs to re-render
+<li v-click="4" >
+No re-renders needed!
 </li>
 
-<li v-click="4" class="ml-8">
+<li v-click="5" class="ml-8">
 SSR sends unnecessary JS
 </li>
 
-<li v-click="4" class="ml-8">
+<li v-click="6" class="ml-8">
 No hydration necessary
 </li>
 

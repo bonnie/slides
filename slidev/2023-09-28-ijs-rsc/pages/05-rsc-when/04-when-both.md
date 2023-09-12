@@ -2,7 +2,7 @@
 layout: default
 clicks: 4
 ---
-# Or both!
+# Why not both? but separate
 
 <div class="flex h-full gap-4 -mx-8">
 
@@ -29,14 +29,4 @@ async function ServerComponent() {
 </ul>
 
 </div>
-
-<!-- <div class="flex flex-col justify-start items-center border-4 border-dotted border-color-$color-primary-300 h-[80%] w-[40%] p-4 -mt-8">
-<div class="featured">Server component</div>
-<div>database call</div>
-<span class="mt-10 ml-20">props</span>
-<arrow x1="750" y1="200" x2="750" y2="325" width="3" />
-<div class="border-4 border-dotted border-color-$color-secondary-500 w-[95%] p-4 mt-20">
-<span class="featured-2">child component</span>
-</div>
-</div> -->
 

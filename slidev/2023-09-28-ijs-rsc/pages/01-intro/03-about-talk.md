@@ -13,7 +13,7 @@ image: images/hiker-2.jpg
            Chain of Communication
         </IconBullet>
         <IconBullet icon="icons/blocks.svg">
-           React Server Components
+           React Server Components: Benefits
         </IconBullet>
         <IconBullet icon="icons/clock-10.svg">
            When to use RSCs

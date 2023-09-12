@@ -83,7 +83,7 @@ src: ./pages/04-rsc-why/01-rsc-why-cover.md
 ---
 
 ---
-src: ./pages/04-rsc-why/02-benefits.md
+src: ./pages/04-rsc-why/02-benefit-1-data.md
 ---
 
 ---
@@ -91,7 +91,7 @@ src: ./pages/04-rsc-why/03-compare-data.md
 ---
 
 ---
-src: ./pages/04-rsc-why/04-js-render.md
+src: ./pages/04-rsc-why/04-benefit-2-js-render.md
 ---
 
 ---

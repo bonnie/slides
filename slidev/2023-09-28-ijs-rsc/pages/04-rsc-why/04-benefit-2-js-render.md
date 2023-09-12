@@ -3,12 +3,15 @@ layout: image-right-small
 image: images/fast.jpg
 ---
 
-# Render on Server
+<h1 class="h1-small">RSC: Benefit #2</h1>
 
-<v-clicks class="mt-16">
+<v-clicks >
 
-- Server is more powerful (fast!)
-- Exclude unneeded JS from bundle
+<div class="pt-8">Component <span class="featured">never</span> renders on client</div>
+<div class="my-4"><span class="featured-2">increased website speed</span></div>
+<li>Server is more powerful (fast!)</li>
+<li>Exclude extra JS from bundle</li>
+<li>Skip hydration step</li>
 
 </v-clicks>
 

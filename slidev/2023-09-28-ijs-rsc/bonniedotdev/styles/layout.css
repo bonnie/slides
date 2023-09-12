@@ -75,6 +75,10 @@
   dd {
     @apply m-4;
   }
+
+  h1.h1-small {
+    @apply text-5xl -mr-8;
+  }
 }
 
 .slidev-layout.gif-quiz,

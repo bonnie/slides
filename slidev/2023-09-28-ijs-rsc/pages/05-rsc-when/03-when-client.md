@@ -2,13 +2,16 @@
 layout: image-right-small
 image: images/clients.jpg
 ---
-# Client components for...
+<h1 class="h1-small">Client components</h1>
 
-<v-clicks>
+<span v-click class="featured">for interactivity</span>
+
+<v-clicks class="mt-8">
 
 - component that needs to re-render
-- a component needs state
-- usually for user interaction
+- changes in state, props, context
+- usually due to user interaction
+
 
 </v-clicks>
 

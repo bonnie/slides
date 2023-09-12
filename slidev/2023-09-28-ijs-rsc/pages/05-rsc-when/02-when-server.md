@@ -3,13 +3,15 @@ layout: image-left-smaller
 image: images/server.jpg
 ---
 
-# RSCs for...
+<h1 class="h1-small">React Server Components</h1>
 
-<v-clicks>
+<span v-click class="featured">for server resources</span>
+
+<v-clicks class="mt-8">
 
 - database or filesystem access
 - computationally intensive renders
-- large packages for non-interactive elements
+- large JS packages not sent to client
 
 </v-clicks>
 

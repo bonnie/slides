@@ -1,12 +1,13 @@
 #!/usr/bin/bash
 
 FILE="slides.md"
+BACKUP_DIR="slides.md.backup"
 
 # PAGES=`ls */*.md | grep -v '/_'`
 
 # make a backup of old file
 TIMESTAMP=`date +%s`
-mv $FILE "$FILE-$TIMESTAMP"
+mv $FILE "$BACKUP_DIR/$FILE-$TIMESTAMP"
 
 # add top-level frontmatter
 cat > $FILE << EOM
