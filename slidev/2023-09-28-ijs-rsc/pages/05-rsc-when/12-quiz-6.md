@@ -1,8 +1,8 @@
 ---
 layout: rsc-client-quiz
-image: images/hover-card.png
-answer: "client"
-reason: "re-render"
+image: images/employee-search.jpg
+answer: "both"
+reason: "database and state"
 ---
 
-Show card on mouse hover
+Employee directory results with filter

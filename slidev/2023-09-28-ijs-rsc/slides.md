@@ -151,6 +151,10 @@ src: ./pages/05-rsc-when/12-quiz-6.md
 ---
 
 ---
+src: ./pages/05-rsc-when/13-quiz-7.md
+---
+
+---
 src: ./pages/06-i-want-more/01-more-cover.md
 ---
 
