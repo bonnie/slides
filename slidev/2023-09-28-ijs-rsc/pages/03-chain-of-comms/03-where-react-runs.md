@@ -3,8 +3,9 @@ layout: image-left-smaller
 image: images/wait-here.jpg
 ---
 
-# _Where_ React code runs
+<h1 class="h1-small"><span class="italic">Where</span> React code runs</h1>
 
+<div class="mt-8">
 <v-clicks>
 
 - it matters! 
@@ -12,6 +13,7 @@ image: images/wait-here.jpg
 - run on client: no db queries
 
 </v-clicks>
+</div>
 
 <Caption>Photo by <a href="https://unsplash.com/@klemensjose?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Klemens Köpfle</a> on <a href="https://unsplash.com/photos/_S2JbQ6QxVk?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></Caption>
 

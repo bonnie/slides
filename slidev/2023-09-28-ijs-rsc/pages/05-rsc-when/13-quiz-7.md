@@ -1,4 +1,3 @@
-
 ---
 layout: rsc-client-quiz
 answer: "server"
