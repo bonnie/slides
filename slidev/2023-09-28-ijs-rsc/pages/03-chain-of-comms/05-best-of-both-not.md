@@ -1,6 +1,7 @@
 ---
 layout: image-left-smaller
 image: images/win.jpg
+clicks: 6
 ---
 
 <style>
@@ -9,7 +10,7 @@ image: images/win.jpg
     }
     </style>
 
-<h1 class="h1-small">SSR: best of both worlds<span v-click="2" class="featured">?</span></h1>
+<h1 class="h1-small">SSR: best of both worlds<span v-click-hide="2">!</span><span v-click="2" class="featured">?</span></h1>
 
 <li v-click="1">
 access to db <span class="featured">and</span> interactivity

@@ -11,6 +11,7 @@ image: images/wait-here.jpg
 - it matters! 
 - run on server: no re-renders
 - run on client: no db queries
+  - need to make separate API call
 
 </v-clicks>
 </div>
