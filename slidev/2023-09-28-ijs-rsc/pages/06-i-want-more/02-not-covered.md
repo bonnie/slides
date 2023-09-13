@@ -7,8 +7,10 @@ image: images/cover-pup-2.jpg
 
 <v-clicks depth="2">
 
-<dt><span class="featured">streaming / suspense</span></dt>
-<dd class="ml-8 mb-8">delivering data <span class="italic">as it becomes available</span> </dd>
+<span class="featured">streaming / suspense</span>
+<div class="mb-8">delivering data <span class="italic">as it becomes available</span> </div>
+
+<a href="https://nextjs.org/docs/app/building-your-application/routing/loading-ui-and-streaming">Next.js docs</a>
 
 </v-clicks>
 

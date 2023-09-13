@@ -7,7 +7,9 @@ image: images/tool.jpg
 
 <v-clicks class="mt-8">
 
-- server render <span class="featured">or</span> client render
+- server render <span class="featured">only</span>
+
+- choice: server <span class="featured">or</span> client render
 
 - don't do both everywhere
 

@@ -71,11 +71,15 @@ src: ./pages/03-chain-of-comms/04-why-not-both.md
 ---
 
 ---
-src: ./pages/03-chain-of-comms/05-best-of-both-not.md
+src: ./pages/03-chain-of-comms/05-ssr-code.md
 ---
 
 ---
-src: ./pages/03-chain-of-comms/06-what-if.md
+src: ./pages/03-chain-of-comms/06-best-of-both-not.md
+---
+
+---
+src: ./pages/03-chain-of-comms/07-what-if.md
 ---
 
 ---

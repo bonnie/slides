@@ -2,15 +2,16 @@
 layout: two-cols-header
 ---
 
-# Data from database
+<h1 class="-mt-4">Data from database</h1>
 
 ::left::
 
-<div v-click>
 <div class="featured">Client component</div>
 
 
-```jsx {2-7} {lines: true}
+```jsx {1,11-20|4-9} {lines: true}
+import Habitats from "./Habitats";
+
 function DragonHabitats() {
   const [habitats, setHabitats] = useState([]);
   useEffect(() => {
@@ -31,16 +32,16 @@ function DragonHabitats() {
 }
 ```
 
-</div>
 
 ::right::
 
-<div v-click>
 <div  class="featured">RSC</div>
 
-```jsx {2-3} {lines: true}
+```jsx {1-4,7-16|5} {lines: true}
+import { getHabitatsFromDb } from "../../database-actions";
+import Habitats from "./Habitats";
+
 async function DragonHabitats() {
-  // getHabitatsFromDb is defined elsewhere
   const habitats = await getHabitatsFromDb();
 
   // display habitat components
@@ -55,6 +56,5 @@ async function DragonHabitats() {
 }
 ```
 
-</div>
 
 

@@ -97,7 +97,7 @@
 
 .slidev-layout .slidev-code {
   code {
-    @apply text-lg leading-7;
+    @apply text-lg leading-6;
   }
 }
 
