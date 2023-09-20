@@ -1,7 +1,7 @@
 ---
 layout: gif-quiz
-image: "gifs/navigate.gif"
-answer: "⛔️ no (new page)"
+image: "gifs/loading-button.gif"
+answer: "✅ yes (state)"
 ---
 
-# Re-render required?
+# JavaScript required?

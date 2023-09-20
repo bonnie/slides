@@ -5,7 +5,7 @@ layout: quote
 # Put another way...
 
 <quote>
-<div v-click>&ldquo;...the server,</div>
+<div v-click>&ldquo;[T]he server,</div>
 <div v-click>far more <span class="featured">powerful</span></div>
 <div v-click >and <span class="featured">physically closer</span> to your data sources,</div> 
 <div v-click>deals with <span class="featured">compute-intensive rendering</span></div>

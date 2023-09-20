@@ -8,7 +8,7 @@ layout: two-cols-header
 
   <div v-click class="flex flex-col justify-start items-center h-full pb-8">
     <div>Prism syntax highlighter</div>
-    <span class="featured pb-8">~7kb</span>
+    <span class="featured pb-4">~7kb</span>
        <div class="bg-black grid place-content-center w-full h-full">
 
 ```jsx 
@@ -32,19 +32,12 @@ function Equipment() {
 ::right::
 
   <div v-click class="flex flex-col justify-start items-center h-full pb-8">
-    <div>Mermaid diagrams</div>
-    <span class="featured pb-8">~83 kB</span>
+    <div>React PDF Renderer</div>
+    <span class="featured pb-4">~85 kB</span>
     <div class="bg-black grid place-content-center w-full h-full">
-
-```mermaid {theme: 'dark', scale: 0.8}
-flowchart LR
-    B(Acquire dragon)
-    B --> C{habitat?}
-    C -->|A| D[island]
-    C -->|B| E[mountain]
-    C -->|C| F[dungeon]
-```
-
+<div class="w-full h-full grid place-content-center my-4 ">
+<img class="h-[250px] -translate-y-4" src="/images/luke-resume.jpg">
+</div>
   </div>
   </div>
 

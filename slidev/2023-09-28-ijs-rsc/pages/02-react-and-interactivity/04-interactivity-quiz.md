@@ -2,4 +2,4 @@
 layout: section-title
 ---
 
-# Quiz! Re-render required?
+# Quiz! JavaScript required?

@@ -8,6 +8,7 @@ image: images/bonnie-color.jpg
 <v-clicks class="mt-20">
 
 - [https://bonnie.dev]()
+  - [Blog post of this talk](https://bonnie.dev/blog/rsc)
 - [https://howd.dev]()
 - [https://quiz-me.ai]()
 
