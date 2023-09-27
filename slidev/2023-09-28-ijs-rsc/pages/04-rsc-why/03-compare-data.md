@@ -10,7 +10,7 @@ layout: two-cols-header
 
 
 ```jsx {1,11-20|4-9} {lines: true}
-import Habitats from "./Habitats";
+import Habitat from "./Habitat";
 
 function DragonHabitats() {
   const [habitats, setHabitats] = useState([]);
@@ -39,7 +39,7 @@ function DragonHabitats() {
 
 ```jsx {1-4,7-16|5} {lines: true}
 import { getHabitatsFromDb } from "../../database-actions";
-import Habitats from "./Habitats";
+import Habitat from "./Habitat";
 
 async function DragonHabitats() {
   const habitats = await getHabitatsFromDb();
