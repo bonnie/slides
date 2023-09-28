@@ -26,5 +26,5 @@ clicks: 4
 
 <IconBullet v-click="1" icon="icons/blocks-orange.svg"><span class="featured-2">component</span>: re-usable piece of UI</IconBullet>
 <IconBullet v-click="2" icon="icons/database-orange.svg"><span class="featured-2">data</span>: variable data, usu from a db</IconBullet>
-<IconBullet v-click="3" icon="icons/toggle-right-orange.svg"><span class="featured-2">props</span>: component input</IconBullet>
+<IconBullet v-click="3" icon="icons/props-orange.svg"><span class="featured-2">props</span>: component input</IconBullet>
 <IconBullet v-click="4" icon="icons/toggle-right-orange.svg"><span class="featured-2">state</span>: current component config</IconBullet>

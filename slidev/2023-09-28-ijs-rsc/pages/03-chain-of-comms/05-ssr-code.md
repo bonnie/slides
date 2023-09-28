@@ -4,7 +4,7 @@ layout: default
 
 <h1 class="h1-small -mt-4">SSR, in code (`pages` router)</h1>
 
-```jsx {9-18|1-7} {lines: true}
+```jsx {2,9-18|1,3-7} {lines: true}
 import { getHabitatsFromDb } from "../../database-actions";
 import Habitat from "./Habitat";
  
