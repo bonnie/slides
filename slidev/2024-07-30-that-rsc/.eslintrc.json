@@ -1,0 +1,4 @@
+{
+  "ignorePatterns": ["**/*.md", "**/*.vue"],
+  "rules": {}
+}

@@ -1,0 +1,22 @@
+{
+  "name": "2023-09-25-ijs-rsc",
+  "private": true,
+  "scripts": {
+    "build": "slidev build --base /slides-repository/${PWD##*/}",
+    "deploy": "bash scripts/deploy.sh",
+    "dev": "slidev --open",
+    "export": "slidev export",
+    "generate-slides-md": "bash scripts/generate-slides-md.sh"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.43.0-beta.3",
+    "@slidev/theme-default": "latest",
+    "@slidev/theme-seriph": "latest",
+    "lucide-vue-next": "^0.276.0"
+  },
+  "devDependencies": {
+    "@iconify-json/ic": "^1.1.14",
+    "@iconify-json/wi": "^1.1.5",
+    "playwright-chromium": "^1.38.1"
+  }
+}
