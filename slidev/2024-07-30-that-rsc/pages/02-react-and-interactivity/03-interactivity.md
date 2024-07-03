@@ -8,10 +8,10 @@ image: images/interactive.jpg
 <v-clicks>
 
 - <span class="featured">Interactivity</span><br/>component updates in response to user input
-- requires <span class="featured">JavaScript</span>, for either:
+- requires <span class="featured">client JavaScript</span>, for either:
 
 <li class="pl-4">event handler (e.g. click), and/or</li>
-<li class="pl-4">re-render: re-running React code to reflect updates</li>
+<li class="pl-4">re-render (re-run React code)</li>
 
 
 </v-clicks>

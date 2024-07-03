@@ -8,7 +8,7 @@ image: images/doctor-b.jpg
 <v-clicks>
 
 - in the software industry: <span class="featured">20+ years</span>
-- creating courses full-time: <span class="featured">3 years</span>
+- creating content full-time: <span class="featured">4 years</span>
 - current gig: [Hands-on Web Dev](https://howd.dev)
 
 </v-clicks>

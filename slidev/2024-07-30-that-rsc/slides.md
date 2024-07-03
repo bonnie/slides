@@ -159,22 +159,46 @@ src: ./pages/05-rsc-when/13-quiz-7.md
 ---
 
 ---
-src: ./pages/06-i-want-more/01-more-cover.md
+src: ./pages/05-rsc-when/14-quiz-8.md
 ---
 
 ---
-src: ./pages/06-i-want-more/02-not-covered.md
+src: ./pages/05-rsc-when/15-quiz-9.md
 ---
 
 ---
-src: ./pages/06-i-want-more/03-further-reading.md
+src: ./pages/06-server-actions-suspense/01-sa-and-s-cover.md
 ---
 
 ---
-src: ./pages/06-i-want-more/04-bonnie.md
+src: ./pages/06-server-actions-suspense/02-page-updates-via-server.md
 ---
 
 ---
-src: ./pages/06-i-want-more/05-thank-you.md
+src: ./pages/06-server-actions-suspense/07-without-suspense.md
+---
+
+---
+src: ./pages/06-server-actions-suspense/08-with-suspense.md
+---
+
+---
+src: ./pages/07-i-want-more/01-more-cover.md
+---
+
+---
+src: ./pages/07-i-want-more/02-not-covered.md
+---
+
+---
+src: ./pages/07-i-want-more/03-further-reading.md
+---
+
+---
+src: ./pages/07-i-want-more/04-bonnie.md
+---
+
+---
+src: ./pages/07-i-want-more/05-thank-you.md
 ---
 
