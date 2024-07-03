@@ -10,11 +10,9 @@ layout: default
     <span class="font-bold">Client request</span>
 </div>
 
-<div v-click="2" class="flex flex-col items-center justify-start gap-8">
-    <IconBullet icon="icons/snail.svg">
-        server generates entire page
-    </IconBullet> 
-    <Arrow  x1="350" x2="625" y1="250" y2="250" width="3.5" color="hsl(210, 51%, 41%)"/>
+<div v-click="2" class="grid grid-rows-[1fr_1fr] h-[200px] ">
+    <Icon name="Snail" size={18} strokeWidth={5} />
+    <span class="text-center mt-4 ">server renders entire page</span>
 </div>
 
 
