@@ -163,42 +163,82 @@ src: ./pages/05-rsc-when/14-quiz-8.md
 ---
 
 ---
-src: ./pages/05-rsc-when/15-quiz-9.md
+src: ./pages/05-rsc-when/16-quiz-9.md
 ---
 
 ---
-src: ./pages/06-server-actions-suspense/01-sa-and-s-cover.md
+src: ./pages/06-suspense-server-actions/01-cover.md
 ---
 
 ---
-src: ./pages/06-server-actions-suspense/02-page-updates-via-server.md
+src: ./pages/06-suspense-server-actions/02-intro.md
 ---
 
 ---
-src: ./pages/06-server-actions-suspense/07-without-suspense.md
+src: ./pages/06-suspense-server-actions/03-without-suspense.md
 ---
 
 ---
-src: ./pages/06-server-actions-suspense/08-with-suspense.md
+src: ./pages/06-suspense-server-actions/04-with-suspense.md
 ---
 
 ---
-src: ./pages/07-i-want-more/01-more-cover.md
+src: ./pages/06-suspense-server-actions/05-server-actions.md
 ---
 
 ---
-src: ./pages/07-i-want-more/02-not-covered.md
+src: ./pages/07-code-comparisons/01-code-cover.md
 ---
 
 ---
-src: ./pages/07-i-want-more/03-further-reading.md
+src: ./pages/07-code-comparisons/02-outline.md
 ---
 
 ---
-src: ./pages/07-i-want-more/04-bonnie.md
+src: ./pages/07-code-comparisons/03-client-only.md
 ---
 
 ---
-src: ./pages/07-i-want-more/05-thank-you.md
+src: ./pages/07-code-comparisons/04-server-only.md
+---
+
+---
+src: ./pages/07-code-comparisons/05-suspense.md
+---
+
+---
+src: ./pages/07-code-comparisons/06-server-action.md
+---
+
+---
+src: ./pages/07-code-comparisons/07-beware-experimental.md
+---
+
+---
+src: ./pages/07-code-comparisons/08-final-code.md
+---
+
+---
+src: ./pages/07-code-comparisons/09-disclaimer.md
+---
+
+---
+src: ./pages/08-i-want-more/01-more-cover.md
+---
+
+---
+src: ./pages/08-i-want-more/02-not-covered.md
+---
+
+---
+src: ./pages/08-i-want-more/03-further-reading.md
+---
+
+---
+src: ./pages/08-i-want-more/04-bonnie.md
+---
+
+---
+src: ./pages/08-i-want-more/05-thank-you.md
 ---
 

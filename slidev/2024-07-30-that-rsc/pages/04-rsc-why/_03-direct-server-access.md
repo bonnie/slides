@@ -8,8 +8,8 @@ image: images/link.jpg
 RSCs can...
 
 <v-clicks>
-<IconBullet icon="icons/database.svg">make database calls</IconBullet>
-<IconBullet icon="icons/folder.svg">read from the server filesystem</IconBullet>
+<IconBullet icon="icons/blue/database.svg">make database calls</IconBullet>
+<IconBullet icon="icons/blue/folder.svg">read from the server filesystem</IconBullet>
 <div class="mt-16">Client components need <span class="featured">API calls!</span></div>
 </v-clicks>
 

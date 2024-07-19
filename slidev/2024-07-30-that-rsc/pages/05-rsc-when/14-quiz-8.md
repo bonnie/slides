@@ -1,8 +1,9 @@
 ---
 layout: rsc-client-quiz
-image: gifs/comment-add.gif
+image: gifs/loading.gif
 answer: "server"
-reason: server action
+reason: suspense
 ---
 
-Page update after adding comment
+Loading spinner on page load
+

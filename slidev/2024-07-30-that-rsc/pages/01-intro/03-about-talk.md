@@ -6,20 +6,20 @@ image: images/hiker-2.jpg
 <div class="-mx-6">
     <h1 class=" pb-8">About this talk</h1>
     <v-clicks>
-        <IconBullet icon="icons/repeat.svg">
+        <IconBullet icon="icons/blue/repeat.svg">
            React and Interactivity
         </IconBullet>
-        <IconBullet icon="icons/link.svg">
+        <IconBullet icon="icons/blue/link.svg">
            Chain of Communication
         </IconBullet>
-        <IconBullet icon="icons/blocks.svg">
+        <IconBullet icon="icons/blue/blocks.svg">
            React Server Components
         </IconBullet>
-        <IconBullet icon="icons/badge-check.svg">
+        <IconBullet icon="icons/blue/badge-check.svg">
            Quiz! Server or client?
         </IconBullet>
-        <IconBullet icon="icons/action.svg">
-           Server actions / Suspense
+        <IconBullet icon="icons/blue/action.svg">
+           Suspense / server actions
         </IconBullet>
     </v-clicks>
 </div>

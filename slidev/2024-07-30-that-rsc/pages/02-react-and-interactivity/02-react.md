@@ -1,6 +1,6 @@
 ---
 layout: image-left-smaller
-image: icons/react.svg
+image: icons/blue/react.svg
 backgroundSize: contain
 imageMargin: true
 clicks: 4
@@ -24,7 +24,7 @@ clicks: 4
 </p>
 
 
-<IconBullet v-click="1" icon="icons/blocks-orange.svg"><span class="featured-2">component</span>: re-usable piece of UI</IconBullet>
-<IconBullet v-click="2" icon="icons/database-orange.svg"><span class="featured-2">data</span>: variable data, usu from a db</IconBullet>
-<IconBullet v-click="3" icon="icons/props-orange.svg"><span class="featured-2">props</span>: component input</IconBullet>
-<IconBullet v-click="4" icon="icons/toggle-right-orange.svg"><span class="featured-2">state</span>: current component config</IconBullet>
+<IconBullet v-click="1" icon="icons/orange/blocks.svg"><span class="featured-2">component</span>: re-usable piece of UI</IconBullet>
+<IconBullet v-click="2" icon="icons/orange/database.svg"><span class="featured-2">data</span>: variable data, usu from a db</IconBullet>
+<IconBullet v-click="3" icon="icons/orange/props.svg"><span class="featured-2">props</span>: component input</IconBullet>
+<IconBullet v-click="4" icon="icons/orange/toggle-right.svg"><span class="featured-2">state</span>: current component config</IconBullet>
