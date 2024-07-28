@@ -11,15 +11,27 @@ src: ./pages/01-intro/01-splash.md
 
 
 ---
-src: ./pages/01-intro/02-about-bonnie.md
+src: ./pages/01-intro/02-sponsors.md
 ---
 
 ---
-src: ./pages/01-intro/03-about-talk.md
+src: ./pages/01-intro/03-have-you-used.md
 ---
 
 ---
-src: ./pages/01-intro/04-disclaimer.md
+src: ./pages/01-intro/04-goals.md
+---
+
+---
+src: ./pages/01-intro/05-rsc-help.md
+---
+
+---
+src: ./pages/01-intro/06-about-talk.md
+---
+
+---
+src: ./pages/01-intro/07-disclaimer.md
 ---
 
 ---
@@ -211,15 +223,11 @@ src: ./pages/07-code-comparisons/06-server-action.md
 ---
 
 ---
-src: ./pages/07-code-comparisons/07-beware-experimental.md
+src: ./pages/07-code-comparisons/07-final-code.md
 ---
 
 ---
-src: ./pages/07-code-comparisons/08-final-code.md
----
-
----
-src: ./pages/07-code-comparisons/09-disclaimer.md
+src: ./pages/07-code-comparisons/08-disclaimer.md
 ---
 
 ---
@@ -227,18 +235,14 @@ src: ./pages/08-i-want-more/01-more-cover.md
 ---
 
 ---
-src: ./pages/08-i-want-more/02-not-covered.md
+src: ./pages/08-i-want-more/02-further-reading.md
 ---
 
 ---
-src: ./pages/08-i-want-more/03-further-reading.md
+src: ./pages/08-i-want-more/03-bonnie.md
 ---
 
 ---
-src: ./pages/08-i-want-more/04-bonnie.md
----
-
----
-src: ./pages/08-i-want-more/05-thank-you.md
+src: ./pages/08-i-want-more/04-thank-you.md
 ---
 

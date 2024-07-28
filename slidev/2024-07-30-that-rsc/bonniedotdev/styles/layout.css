@@ -11,9 +11,8 @@
   --color-primary-900: hsl(208, 36%, 15%);
 }
 
-.slidev-layout.cover,
 .slidev-layout.intro {
-  @apply h-full grid;
+  @apply h-full grid bg-transparent;
 
   h1 + p {
     @apply -mt-2 opacity-50 mb-4;

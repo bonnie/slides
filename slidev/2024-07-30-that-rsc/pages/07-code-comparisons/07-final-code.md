@@ -22,9 +22,8 @@ image: images/victory.jpg
     Interactive JS (popover)
 </IconBullet>
 <IconBullet icon="icons/green/thumbs-up.svg">
-    Indications while loading<span class="featured translate-x-16">*</span>
+    Indications while loading
 </IconBullet>
-<p><span class="featured translate-x-16">*</span>with React 19 hooks</p>
 </v-clicks>
 
 <Caption>Image by <a href="https://pixabay.com/users/foundry-923783/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=862985">Foundry Co</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=862985">Pixabay</a></Caption>
