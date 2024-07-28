@@ -9,7 +9,7 @@ image: images/wait-here.jpg
 <v-clicks>
 
 - it matters! 
-- run on server: no re-renders
+- run only on server: no re-renders
 - run on client: no db queries
   - need to make separate API call
 

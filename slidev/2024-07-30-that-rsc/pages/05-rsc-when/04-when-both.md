@@ -2,7 +2,7 @@
 layout: default
 clicks: 4
 ---
-# Why not both? but separate
+# Common pattern: use both
 
 <div class="flex h-full gap-4 -mx-8">
 
@@ -22,7 +22,7 @@ async function ServerComponent() {
 ```
 
 <ul>
-<li v-click="1">pattern: server parent &rarr; client child</li>
+<li v-click="1">server parent &rarr; client child</li>
 <li v-click="2">RSC queries db</li>
 <li v-click="3">data passed as prop</li>
 <li v-click="4">interactive child</li>

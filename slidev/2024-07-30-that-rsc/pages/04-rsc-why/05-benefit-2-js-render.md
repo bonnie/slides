@@ -11,7 +11,6 @@ image: images/fast.jpg
 <div class="my-4"><span class="featured-2">increased website speed</span></div>
 <li>Server is more powerful (fast!)</li>
 <li>Exclude extra JS from bundle</li>
-<li>Skip hydration step</li>
 
 </v-clicks>
 

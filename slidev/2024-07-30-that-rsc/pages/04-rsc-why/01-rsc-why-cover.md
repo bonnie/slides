@@ -2,4 +2,4 @@
 layout: section-title
 ---
 
-# React Server Components: Benefits
+# React Server Components

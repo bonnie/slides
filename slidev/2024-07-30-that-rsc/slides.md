@@ -75,43 +75,31 @@ src: ./pages/03-chain-of-comms/03-where-react-runs.md
 ---
 
 ---
-src: ./pages/03-chain-of-comms/04-why-not-both.md
----
-
----
-src: ./pages/03-chain-of-comms/05-ssr-code.md
----
-
----
-src: ./pages/03-chain-of-comms/06-best-of-both-not.md
----
-
----
-src: ./pages/03-chain-of-comms/07-what-if.md
----
-
----
 src: ./pages/04-rsc-why/01-rsc-why-cover.md
 ---
 
 ---
-src: ./pages/04-rsc-why/02-benefit-1-data.md
+src: ./pages/04-rsc-why/02-rsc.md
 ---
 
 ---
-src: ./pages/04-rsc-why/03-compare-data.md
+src: ./pages/04-rsc-why/03-benefit-1-data.md
 ---
 
 ---
-src: ./pages/04-rsc-why/04-benefit-2-js-render.md
+src: ./pages/04-rsc-why/04-compare-data.md
 ---
 
 ---
-src: ./pages/04-rsc-why/05-js-render-examples.md
+src: ./pages/04-rsc-why/05-benefit-2-js-render.md
 ---
 
 ---
-src: ./pages/04-rsc-why/06-vercel-quote.md
+src: ./pages/04-rsc-why/06-js-render-examples.md
+---
+
+---
+src: ./pages/04-rsc-why/07-vercel-quote.md
 ---
 
 ---
