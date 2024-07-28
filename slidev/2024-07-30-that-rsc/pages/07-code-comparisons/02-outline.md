@@ -36,22 +36,22 @@ layout: two-cols-header
 <v-clicks>
     <h2 class="featured mb-4">Comparisons</h2>
     <IconBullet icon="icons/orange/timer.svg">
-        First Contentful Paint (FCP)
+        Fast First Contentful Paint
     </IconBullet>
     <IconBullet icon="icons/orange/arrow-up-down.svg">
-        Network calls to server
+        Minimize network calls
     </IconBullet>
     <IconBullet icon="icons/orange/file-json.svg">
-        API routes required
+        Minimize API routes
     </IconBullet>
     <IconBullet icon="icons/orange/briefcase.svg">
-        Client JS bundle size
+        Small JS bundle
     </IconBullet>
     <IconBullet icon="icons/orange/square-mouse-pointer.svg">
         Interactive JS (popover)
     </IconBullet>
     <IconBullet icon="icons/orange/loader.svg">
-        Indications while loading
+        Loading indicators
     </IconBullet>
 </v-clicks>
 </div>

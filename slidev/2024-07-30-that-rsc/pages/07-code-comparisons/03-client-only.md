@@ -6,22 +6,22 @@ image: images/cases.jpg
 
 <v-clicks>
 <IconBullet icon="icons/green/thumbs-up.svg">
-    First Contentful Paint (FCP)
+    Fast First Contentful Paint
 </IconBullet>
 <IconBullet icon="icons/red/thumbs-down.svg">
-    Network calls to server
+    Minimize network calls
 </IconBullet>
 <IconBullet icon="icons/red/thumbs-down.svg">
-    API routes required
+    Minimize API routes
 </IconBullet>
 <IconBullet icon="icons/red/thumbs-down.svg">
-    Client JS bundle size
+    Small JS bundle
 </IconBullet>
 <IconBullet icon="icons/green/thumbs-up.svg">
     Interactive JS (popover)
 </IconBullet>
 <IconBullet icon="icons/green/thumbs-up.svg">
-    Indications while loading
+    Loading indicators
 </IconBullet>
 </v-clicks>
 
@@ -35,7 +35,7 @@ image: images/cases.jpg
 
 <div class="featured">Cons</div>
 
-- lots of network calls to server
+- lots of Minimize network calls
     - react component code
     - comments / users data
     - POST to create comment

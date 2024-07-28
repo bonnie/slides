@@ -7,22 +7,22 @@ image: images/tennis.jpg
 
 <v-clicks>
 <IconBullet class="mt-8" icon="icons/red/thumbs-down.svg">
-    First Contentful Paint (FCP)
+    Fast First Contentful Paint
 </IconBullet>
 <IconBullet icon="icons/green/thumbs-up.svg">
-    Network calls to server
+    Minimize network calls
 </IconBullet>
 <IconBullet icon="icons/orange/no-thumb.svg">
-    API routes required
+    Minimize API routes
 </IconBullet>
 <IconBullet icon="icons/green/thumbs-up.svg">
-    Client JS bundle size
+    Small JS bundle
 </IconBullet>
 <IconBullet icon="icons/red/thumbs-down.svg">
     Interactive JS (popover)
 </IconBullet>
 <IconBullet icon="icons/red/thumbs-down.svg">
-    Indications while loading
+    Loading indicators
 </IconBullet>
 </v-clicks>
 

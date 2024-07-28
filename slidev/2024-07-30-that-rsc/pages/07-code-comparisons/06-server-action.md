@@ -7,22 +7,22 @@ image: images/action-shot.jpg
 
 <v-clicks>
 <IconBullet class="mt-8" icon="icons/green/thumbs-up.svg">
-    First Contentful Paint (FCP)
+    Fast First Contentful Paint
 </IconBullet>
 <IconBullet icon="icons/green/thumbs-up.svg">
-    Network calls to server
+    Minimize network calls
 </IconBullet>
 <IconBullet icon="icons/green/thumbs-up.svg">
-    API routes required
+    Minimize API routes
 </IconBullet>
 <IconBullet icon="icons/green/thumbs-up.svg">
-    Client JS bundle size
+    Small JS bundle
 </IconBullet>
 <IconBullet icon="icons/red/thumbs-down.svg">
     Interactive JS (popover)
 </IconBullet>
 <IconBullet icon="icons/orange/no-thumb.svg">
-    Indications while loading
+    Loading indicators
 </IconBullet>
 </v-clicks>
 
@@ -38,7 +38,7 @@ image: images/action-shot.jpg
 - fast FCP
    - loading indication (even component by component!)
 [highlight] - submit form with action that runs on server
-[highilght] - no API routes
+[highilght] - Minimize API routes
 
 <div class="featured">Cons</div>
 

@@ -37,7 +37,7 @@ the data that can be returned rom the server action can provide ui in one networ
 - fast FCP
    - loading indication (even component by component!)
 [highlight] - submit form with action that runs on server
-[highilght] - no API routes
+[highilght] - Minimize API routes
 
 <div class="featured">Cons</div>
 

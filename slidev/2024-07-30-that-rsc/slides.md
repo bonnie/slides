@@ -103,51 +103,27 @@ src: ./pages/04-rsc-why/07-vercel-quote.md
 ---
 
 ---
-src: ./pages/05-rsc-when/01-rsc-when-cover.md
+src: ./pages/05-rsc-quiz/01-rsc-quiz.md
 ---
 
 ---
-src: ./pages/05-rsc-when/02-when-server.md
+src: ./pages/05-rsc-quiz/02-quiz-1.md
 ---
 
 ---
-src: ./pages/05-rsc-when/03-when-client.md
+src: ./pages/05-rsc-quiz/03-quiz-2.md
 ---
 
 ---
-src: ./pages/05-rsc-when/04-when-both.md
+src: ./pages/05-rsc-quiz/04-quiz-3.md
 ---
 
 ---
-src: ./pages/05-rsc-when/05-both-example.md
+src: ./pages/05-rsc-quiz/05-quiz-4.md
 ---
 
 ---
-src: ./pages/05-rsc-when/06-rsc-quiz.md
----
-
----
-src: ./pages/05-rsc-when/07-quiz-1.md
----
-
----
-src: ./pages/05-rsc-when/08-quiz-2.md
----
-
----
-src: ./pages/05-rsc-when/09-quiz-3.md
----
-
----
-src: ./pages/05-rsc-when/10-quiz-4.md
----
-
----
-src: ./pages/05-rsc-when/11-quiz-5.md
----
-
----
-src: ./pages/05-rsc-when/12-quiz-6.md
+src: ./pages/05-rsc-quiz/06-quiz-5.md
 ---
 
 ---
