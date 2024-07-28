@@ -1,8 +1,8 @@
 ---
 layout: rsc-client-quiz
-image: gifs/carousel.gif
-answer: "both"
-reason: "database and state"
+image: images/slider.png
+answer: "client"
+reason: "re-render"
 ---
 
-Rotating review component
+Slider

@@ -13,7 +13,7 @@ const props = defineProps({
   },
 });
 
-const icon = computed(() => `icons/${props.answer}.svg`);
+const icon = computed(() => `icons/blue/${props.answer}.svg`);
 </script>
 
 <template>

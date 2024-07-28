@@ -7,8 +7,8 @@ image: images/interactive.jpg
 
 <v-clicks>
 
-- <span class="featured">Interactivity</span><br/>component updates in response to user input
-- requires <span class="featured">client JavaScript</span>, for either:
+<div><span class="featured">Interactivity</span><br/>component updates in response to user input</div>
+<div class="mt-6">requires <span class="featured">client JavaScript</span>, for either:</div>
 
 <li class="pl-4">event handler (e.g. click), and/or</li>
 <li class="pl-4">re-render (re-run React code)</li>

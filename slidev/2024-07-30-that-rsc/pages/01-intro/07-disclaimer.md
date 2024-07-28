@@ -7,8 +7,8 @@ image: images/terms.jpg
 
 <v-clicks>
 
-- server components only available via Next.js
-- talk covers Next.js app router
+- server components primarily available via Next.js
+- talk covers Next.js `app` router
 
 </v-clicks>
 

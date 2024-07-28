@@ -9,11 +9,9 @@ image: images/tool.jpg
 
 - server render <span class="featured">only</span>
 
-- choice: server <span class="featured">or</span> client render
+- never render on the client
 
-- don't do both everywhere
 
-- instead, do each where needed
 
 </v-clicks>
 

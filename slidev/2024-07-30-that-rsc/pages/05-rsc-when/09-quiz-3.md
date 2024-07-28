@@ -1,8 +1,8 @@
 ---
 layout: rsc-client-quiz
-image: images/shows.png
-answer: server
-reason: database
+image: gifs/carousel.gif
+answer: "both"
+reason: "database and state"
 ---
 
-List of upcoming shows, with links to ticket purchase page
+Rotating review component

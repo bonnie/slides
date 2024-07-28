@@ -4,7 +4,7 @@ image: images/hiker-2.jpg
 ---
 
 <div class="-mx-6">
-    <h1 class=" pb-8">About this talk</h1>
+    <h1 class=" pb-2">About this talk</h1>
     <v-clicks>
         <IconBullet icon="icons/blue/repeat.svg">
            React and Interactivity
@@ -20,6 +20,9 @@ image: images/hiker-2.jpg
         </IconBullet>
         <IconBullet icon="icons/blue/action.svg">
            Suspense / server actions
+        </IconBullet>
+        <IconBullet icon="icons/blue/code.svg">
+           Code examples
         </IconBullet>
     </v-clicks>
 </div>

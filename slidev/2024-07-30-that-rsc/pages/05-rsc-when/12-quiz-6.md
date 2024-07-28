@@ -1,8 +1,8 @@
 ---
 layout: rsc-client-quiz
-image: images/employee-search.jpg
-answer: "both"
-reason: "database and state"
+image: gifs/comment-add.gif
+answer: "server"
+reason: server action
 ---
 
-Employee directory results with filter
+Page update after adding comment

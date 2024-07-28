@@ -39,31 +39,27 @@ src: ./pages/02-react-and-interactivity/01-react-and-interactivity-cover.md
 ---
 
 ---
-src: ./pages/02-react-and-interactivity/02-react.md
+src: ./pages/02-react-and-interactivity/02-interactivity.md
 ---
 
 ---
-src: ./pages/02-react-and-interactivity/03-interactivity.md
+src: ./pages/02-react-and-interactivity/03-interactivity-quiz.md
 ---
 
 ---
-src: ./pages/02-react-and-interactivity/04-interactivity-quiz.md
+src: ./pages/02-react-and-interactivity/04-interactivity-quiz-1.md
 ---
 
 ---
-src: ./pages/02-react-and-interactivity/05-interactivity-quiz-1.md
+src: ./pages/02-react-and-interactivity/05-interactivity-quiz-2.md
 ---
 
 ---
-src: ./pages/02-react-and-interactivity/06-interactivity-quiz-2.md
+src: ./pages/02-react-and-interactivity/06-interactivity-quiz-3.md
 ---
 
 ---
-src: ./pages/02-react-and-interactivity/07-interactivity-quiz-3.md
----
-
----
-src: ./pages/02-react-and-interactivity/08-interactivity-quiz-4.md
+src: ./pages/02-react-and-interactivity/07-interactivity-quiz-4.md
 ---
 
 ---
@@ -167,23 +163,11 @@ src: ./pages/05-rsc-when/12-quiz-6.md
 ---
 
 ---
-src: ./pages/05-rsc-when/13-quiz-7.md
----
-
----
-src: ./pages/05-rsc-when/14-quiz-8.md
----
-
----
-src: ./pages/05-rsc-when/16-quiz-9.md
----
-
----
 src: ./pages/06-suspense-server-actions/01-cover.md
 ---
 
 ---
-src: ./pages/06-suspense-server-actions/02-intro.md
+src: ./pages/06-suspense-server-actions/02-suspense-intro.md
 ---
 
 ---
@@ -195,7 +179,11 @@ src: ./pages/06-suspense-server-actions/04-with-suspense.md
 ---
 
 ---
-src: ./pages/06-suspense-server-actions/05-server-actions.md
+src: ./pages/06-suspense-server-actions/05-server-actions-intro.md
+---
+
+---
+src: ./pages/06-suspense-server-actions/06-server-actions.md
 ---
 
 ---
@@ -224,14 +212,6 @@ src: ./pages/07-code-comparisons/06-server-action.md
 
 ---
 src: ./pages/07-code-comparisons/07-final-code.md
----
-
----
-src: ./pages/07-code-comparisons/08-disclaimer.md
----
-
----
-src: ./pages/07-code-comparisons/09-disclaimer-2.md
 ---
 
 ---

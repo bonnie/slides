@@ -4,19 +4,16 @@ image: images/cover-pup-2.jpg
 ---
 <h1>Really?!?</h1>
 
-More suited to RSCs: 
+Apps more suited to RSCs: 
 
 <v-clicks>
 <IconBullet icon="icons/blue/clock-10.svg">data that changes infrequently</IconBullet>
-<ul class="mx-12">
-    <li>performance schedule</li>
-    <li>trending articles</li>
-</ul>
+    <li class="mx-4">performance schedule</li>
+    <li class="mx-4">trending articles</li>
+
 
 <IconBullet icon="/icons/blue/user.svg">data changed by user</IconBullet>
-<ul class="mx-12">
-    <li>user account page</li>
-</ul>
+<li class="mx-4">user account page</li>
 </v-clicks>
 
 

@@ -2,13 +2,13 @@
 layout: two-cols-header
 ---
 
-<h1 class="h1-xs mb-4">Code comparisons: Comments <span class="[display:inline-block] [transform:rotateY(180deg)]">R</span> Us</h1>
+<h1 class="h1-xs">Code comparisons: Comments <span class="[display:inline-block] [transform:rotateY(180deg)]">R</span> Us</h1>
 
 ::left::
 
 <div class="grid grid-cols-1 grid-rows-7 h-full">
 <v-clicks >
-    <h2 class="featured mb-4">Code examples</h2>
+    <h2 class="featured mb-2">Code examples</h2>
     <IconBullet icon="icons/blue/laptop.svg">
         Client only
     </IconBullet>

@@ -1,8 +1,9 @@
 ---
 layout: rsc-client-quiz
-image: images/slider.png
-answer: "client"
-reason: "re-render"
+image: gifs/loading.gif
+answer: "server"
+reason: suspense
 ---
 
-Slider
+Loading spinner on page load
+

@@ -6,7 +6,7 @@ layout: two-cols-header
 
 ::left::
 
-<div class="featured">Client component</div>
+<div class="featured">Client component (no SSR)</div>
 
 
 ```jsx {1,11-20|4-9} {lines: true}
@@ -37,7 +37,7 @@ function DragonHabitats() {
 
 <div  class="featured">RSC</div>
 
-```jsx {1-4,7-16|5} {lines: true}
+```jsx {2-4,7-16|1,5} {lines: true}
 import { getHabitatsFromDb } from "../../database-actions";
 import Habitat from "./Habitat";
 
