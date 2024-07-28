@@ -1,10 +1,18 @@
 ---
 layout: default
+clicks: 5
 ---
 
 <h1 class="h1-small">Server actions</h1>
 
 
+<div class="mt-12">
+<img v-click="[1, 2]" class="w-74 mt-28 max-w-none" src="/icons/multi/server-action-initial.svg" />
+<img v-click="[2, 3]" class="w-74 mt-28 max-w-none" src="/icons/multi/server-action-add.svg" />
+<img v-click="[3, 4]" class="w-80 mt-14 max-w-none" src="/icons/multi/server-action-function-client.svg" />
+<img v-click="[4, 5]" class="w-full max-w-none" src="/icons/multi/server-action-rpc.svg" />
+<img v-click="5" class="w-full max-w-none" src="/icons/multi/server-action-revalidate.svg" />
+</div>
 
 <!-- Server Actions integrate with the Next.js caching and revalidation architecture. When an action is invoked, Next.js can return both the updated UI and new data in a single server roundtrip. -reference: https://nextjs.org/docs/app/building-your-application/data-fetching/server-actions-and-mutations 
 

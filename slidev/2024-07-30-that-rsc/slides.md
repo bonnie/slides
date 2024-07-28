@@ -231,6 +231,10 @@ src: ./pages/07-code-comparisons/08-disclaimer.md
 ---
 
 ---
+src: ./pages/07-code-comparisons/09-disclaimer-2.md
+---
+
+---
 src: ./pages/08-i-want-more/01-more-cover.md
 ---
 

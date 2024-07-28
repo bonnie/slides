@@ -1,13 +1,16 @@
+---
+layout: quote
+---
+<h1 size="small">The perfect choice?</h1>
+
+<div>The doctor says...</div>
 
 
-if this were really twitter, RSCs would not be the optimal choice for displaying "comments"
+<quote >
+<span v-click>&ldquo;RSCs <span class="featured">do not support continuous updates</span>, such as through WebSockets. </span>
+<span v-click>In these cases, a client-side fetching or polling approach would be necessary.&rdquo;
+</span>
+</quote>
 
-Also, RSCs do not support continuous updates, such as through WebSockets. In these cases, a client-side fetching or polling approach would be necessary. (https://vercel.com/blog/understanding-react-server-components)
 
-however, server components are great for data that doesn't need to be updated to-the-minute or won't be updated behind the user's back
-    like:
-        - a performance venue schedule
-        - a user's account data
-        - a magazine splash page with currrent stories and "what's trending"
-        - 
-
+<div v-click class="absolute bottom-16">Source: <a href="https://vercel.com/blog/understanding-react-server-components#what-do-react-server-components-do">Understanding React Server Components, Vercel Blog</a></div>
