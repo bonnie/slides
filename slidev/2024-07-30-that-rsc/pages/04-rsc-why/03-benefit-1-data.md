@@ -8,8 +8,7 @@ image: images/tunnel.jpg
 
 <v-clicks >
 
-<div class="pt-8">Component renders <span class="featured">only</span> on server</div>
-<div class="my-4"><span class="featured-2">Access to server resources</span></div>
+<div class="my-4 pt-8"><span class="featured-2">Access to server resources</span></div>
 <li class="ml-4">database</li>
 <li class="ml-4">filesystem</li>
 

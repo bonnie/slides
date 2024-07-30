@@ -7,8 +7,7 @@ image: images/fast.jpg
 
 <v-clicks >
 
-<div class="pt-8">Component <span class="featured">never</span> renders on client</div>
-<div class="my-4"><span class="featured-2">increased website speed</span></div>
+<div class="my-4 pt-8"><span class="featured-2">Pre-render for performance</span></div>
 <li>Server is more powerful (fast!)</li>
 <li>Exclude extra JS from bundle</li>
 
