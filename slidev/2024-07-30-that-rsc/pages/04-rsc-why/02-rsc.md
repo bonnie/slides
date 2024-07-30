@@ -9,7 +9,11 @@ image: images/tool.jpg
 
 - server render <span class="featured">only</span>
 
+- send rendered output to the client
+
 - never render on the client
+
+- don't send component JavaScript 
 
 
 
