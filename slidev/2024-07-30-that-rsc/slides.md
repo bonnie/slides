@@ -155,7 +155,7 @@ src: ./pages/07-code-comparisons/01-code-cover.md
 ---
 
 ---
-src: ./pages/07-code-comparisons/02-outline.md
+src: ./pages/07-code-comparisons/02-criteria.md
 ---
 
 ---
