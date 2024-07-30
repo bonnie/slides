@@ -21,7 +21,7 @@ image: images/drops.jpg
 <IconBullet icon="icons/red/thumbs-down.svg">
     Interactive JS (popover)
 </IconBullet>
-<IconBullet icon="icons/orange/no-thumb.svg">
+<IconBullet icon="icons/green/thumbs-up.svg">
     Loading indicators
 </IconBullet>
 </v-clicks>
