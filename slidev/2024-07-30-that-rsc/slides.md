@@ -95,11 +95,11 @@ src: ./pages/04-rsc-why/05-js-render-examples.md
 ---
 
 ---
-src: ./pages/04-rsc-why/06-vercel-quote.md
+src: ./pages/04-rsc-why/06-server-components-cant.md
 ---
 
 ---
-src: ./pages/04-rsc-why/07-server-components-cant.md
+src: ./pages/04-rsc-why/07-vercel-quote.md
 ---
 
 ---
