@@ -13,6 +13,8 @@ image: images/tunnel.jpg
 <li class="ml-4">database</li>
 <li class="ml-4">filesystem</li>
 
+<div class="text-2xl italic mt-12">Code examples in the second half of the talk</div>
+
 </v-clicks>
 </div>
 

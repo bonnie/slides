@@ -8,7 +8,7 @@ layout: two-cols-header
 
   <div v-click class="flex flex-col justify-start items-center h-full pb-8">
     <div>Prism syntax highlighter</div>
-    <span class="featured pb-4">~7kb</span>
+    <span class="featured pb-4">~7kB</span>
        <div class="bg-black grid place-content-center w-full h-full">
 
 ```jsx 

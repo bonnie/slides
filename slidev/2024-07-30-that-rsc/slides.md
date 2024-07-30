@@ -87,19 +87,19 @@ src: ./pages/04-rsc-why/03-benefit-1-data.md
 ---
 
 ---
-src: ./pages/04-rsc-why/04-compare-data.md
+src: ./pages/04-rsc-why/04-benefit-2-js-render.md
 ---
 
 ---
-src: ./pages/04-rsc-why/05-benefit-2-js-render.md
+src: ./pages/04-rsc-why/05-js-render-examples.md
 ---
 
 ---
-src: ./pages/04-rsc-why/06-js-render-examples.md
+src: ./pages/04-rsc-why/06-vercel-quote.md
 ---
 
 ---
-src: ./pages/04-rsc-why/07-vercel-quote.md
+src: ./pages/04-rsc-why/07-server-components-cant.md
 ---
 
 ---
